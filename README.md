@@ -1,5 +1,5 @@
-Jagadeesh Thiruveedula\n
-Data Engineer || AI Op's || Block Chain || Multi-Cloud || Distributed Computing
+Jagadeesh Thiruveedula
+  Data Engineer || AI Op's || Block Chain || Multi-Cloud || Distributed Computing
 
 - 🔭 I’m currently working on Big Data, Block Chain
 - 🌱 I’m currently learning Golang,node.js
