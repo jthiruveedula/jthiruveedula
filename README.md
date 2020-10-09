@@ -1,4 +1,4 @@
-Jagadeesh Thiruveedula
+Jagadeesh Thiruveedula\n
 Data Engineer || AI Op's || Block Chain || Multi-Cloud || Distributed Computing
 
 - 🔭 I’m currently working on Big Data, Block Chain
