@@ -8,4 +8,4 @@
  👔 <a href="https://medium.com/@tjagadeesh77">Medium </a>
  📛 <a href="https://docs.microsoft.com/en-us/users/jagadeeshthiruveedula77/">MS Learn </a>
 
-![linkedIN](https://user-images.githubusercontent.com/34623941/95614639-73d17600-0a84-11eb-8c44-bc67ec7f4e67.jpg)
+![image](https://user-images.githubusercontent.com/34623941/95689789-e717eb00-0c30-11eb-983e-c70e4d2bdfdf.png)
