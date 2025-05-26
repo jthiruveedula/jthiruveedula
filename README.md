@@ -72,8 +72,8 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
   <img src="https://img.shields.io/badge/Blockchain-00AEFF?style=for-the-badge" alt="Blockchain"/>
 </p>
 
-*   Solid understanding of core Blockchain principles (Decentralization, Immutability, Transparency).
-*   Experience in analyzing and conceptualizing Blockchain integration for enhancing data security and traceability in enterprise solutions.
+*   Advanced understanding of core Blockchain principles (Decentralization, Immutability, Transparency) and Distributed Ledger Technologies.
+*   Proficient in analyzing, conceptualizing, and assessing the integration of Blockchain solutions for enhancing data security, traceability, and efficiency in enterprise contexts.
 
 **Databases:**
 
@@ -136,13 +136,14 @@ Below are highlights of key projects, demonstrating impact across various platfo
   <a href="https://google.accredible.com/062666d7-27a3-477e-9bcd-9de670de9f99" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certified - Professional Data Engineer"/></a>
   <img src="https://img.shields.io/badge/Talend%20Certified-Data%20Explorer-702E8D?style=for-the-badge&logo=talend&logoColor=white" alt="Talend Data Explorer Certification"/>
   <img src="https://img.shields.io/badge/Cloudera-CCA%20Spark%20%26%20Hadoop%20Developer-F79420?style=for-the-badge&logo=cloudera&logoColor=white" alt="CCA Spark and Hadoop Developer"/>
+  <img src="https://img.shields.io/badge/Blockchain%20%26%20DLT-Advanced%20Certification%20(IIIT--H)-0077CC?style=for-the-badge" alt="Advanced Certification in Blockchain & DLT - IIIT Hyderabad"/>
 </p>
 
 *   Google Cloud Certified - Professional Data Engineer
 *   Talend Data Explorer Certification
 *   CCA Spark and Hadoop Developer
+*   Advanced Certification in Block-chain and Distributed Ledger Technologies - IIIT Hyderabad
 *   *(Placeholder: e.g., AWS Certified Big Data – Specialty)*
-*   *(Consider adding a relevant, verifiable blockchain course/certificate if applicable, otherwise, the skills section description is sufficient for "basic exp")*
 
 ## 🔗 Connect with Me
 
