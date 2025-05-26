@@ -129,8 +129,7 @@ Below are highlights of key projects, demonstrating impact across various platfo
 
 ## 🎓 Education & Certifications
 
-*   **Master's Degree** in [Your Field, e.g., Computer Science, Data Science] (*placeholder*)
-*   **Bachelor's Degree** in [Your Field, e.g., Information Technology, Engineering] (*placeholder*)
+*   B.Tech – Jawaharlal Nehru Technological University (2015)
 
 **Certifications:**
 <p align="left">
