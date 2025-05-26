@@ -1,8 +1,8 @@
-# Jagadeesh Thiruveedula - 📊 Sr. Data Engineer | 🤖 AI Ops | 🔗 Blockchain | ☁️ Multi-Cloud Specialist
+# Jagadeesh Thiruveedula - 📊 Associate Architect Data (GCP) | 🤖 AI Ops | 🔗 Blockchain | ☁️ Multi-Cloud Specialist
 
 ## 👨‍💻 About Me
 
-As a Senior Data Engineer, I specialize in architecting, building, and managing robust, scalable data-intensive applications. My core expertise encompasses enterprise-scale data migration and modernization, AI Ops, foundational blockchain applications, and multi-cloud environments. I am dedicated to leveraging cutting-edge technologies to solve complex data challenges, driving business innovation and operational efficiency. My track record demonstrates successful delivery of high-impact data solutions.
+As an Associate Architect Data (GCP), I specialize in designing, architecting, and guiding the implementation of robust, scalable, and secure data-intensive solutions, with a strong focus on the Google Cloud Platform. My core expertise encompasses enterprise-scale data migration and modernization (particularly to GCP), leveraging AI Ops, exploring foundational blockchain applications, and operating in multi-cloud environments. I am dedicated to leveraging cutting-edge technologies, including Google Cloud's advanced data services, to solve complex data challenges, driving business innovation and operational efficiency. My track record demonstrates successful delivery of high-impact data solutions.
 
 ## ✨ Skills
 
@@ -102,16 +102,14 @@ As a Senior Data Engineer, I specialize in architecting, building, and managing 
 
 ## 💼 Experience
 
-**Sr. Data Engineer** (Recent Role - Illustrative responsibilities and achievements)
-*   Spearheaded and executed multiple large-scale data migration projects, seamlessly transitioning complex on-premises enterprise workloads to the Azure cloud, ensuring minimal downtime and data integrity.
-*   Engineered and deployed modernized data warehouse solutions utilizing Azure Synapse Analytics and Databricks, enhancing analytical capabilities and query performance by up to 40%.
-*   Designed, developed, and optimized robust ETL/ELT pipelines within Azure Data Factory, automating critical data flows and improving data quality and reliability across systems.
-*   Architected and implemented scalable streaming data solutions using Azure Stream Analytics and Kafka, enabling real-time analytics and decision-making for business operations.
-*   Collaborated extensively with cross-functional teams, including data scientists, business analysts, and stakeholders, to define data requirements and deliver impactful, data-driven insights.
-*   Championed and integrated AI Ops practices for proactive monitoring, anomaly detection, and automated recovery of data pipelines, significantly improving system uptime and operational stability.
-*   Led the modernization of legacy data systems, re-architecting for improved performance, enhanced scalability, and optimized cost-efficiency in cloud environments.
+**Associate Data Architect | NRG Energy** (Sep 2023 – Present)
+*   Led the strategic migration of Databricks workloads from AWS to Google Cloud Platform (GCP), achieving a 20% optimization in storage costs.
+*   Engineered and implemented robust data validation automation frameworks using Python and Shell scripting, reducing manual validation efforts by 80%.
+*   Designed and architected secure and efficient cross-cloud networking solutions, incorporating VPC Peering and Private Google Access to ensure data integrity and compliance.
+*   Played a key role in defining data architecture standards and best practices within the GCP environment.
+*   Collaborated with data engineering and platform teams to ensure seamless integration and deployment of data pipelines on GCP.
 
-*(In a real scenario, this section would be further enriched with specific metrics, project names, and quantifiable achievements for each role.)*
+*(Previous roles and specific achievements would be detailed here in a real scenario, focusing on data migration and modernization successes.)*
 
 ## 🚀 Key Projects
 
