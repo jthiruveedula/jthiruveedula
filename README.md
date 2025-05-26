@@ -9,13 +9,6 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 **Data Engineering & Big Data:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
-  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse Analytics"/>
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF5A00?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks"/>
-  <img src="https://img.shields.io/badge/Azure%20Stream%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Stream Analytics"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2"/>
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Apache%20Spark-E8481C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
@@ -66,14 +59,12 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 **AI Ops & Monitoring:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus (Familiar)"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana (Familiar)"/>
 </p>
 
-*   Expertise in **Azure Monitor** including Log Analytics and Application Insights.
+*   Experience with cloud monitoring tools (e.g., Prometheus, Grafana) and familiarity with services like Azure Monitor.
 *   Proactive Anomaly Detection, Automated Alerting & Recovery Strategies.
-*   Familiar with Prometheus & Grafana.
 
 **Blockchain Technology:**
 
@@ -87,21 +78,18 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 **Databases:**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SQL Database"/>
-  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 </p>
 
 *   Proficient with NoSQL Databases: **MongoDB**, **Cassandra**.
-*   Experience with **Oracle** & **SQL Server**, including large-scale migrations.
-*   Azure Database for PostgreSQL/MySQL included in badges above.
+*   Experience with Relational Databases: **PostgreSQL**, **MySQL**, **Oracle**, **SQL Server** (including large-scale migrations).
 
 **Other:**
 
@@ -127,14 +115,17 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 
 Below are highlights of key projects, demonstrating impact across various platforms and showcasing a journey of leveraging best-of-breed cloud technologies. My recent work and primary architectural focus are now centered on Google Cloud Platform.
 
-**1. Enterprise Data Lake & Analytics Platform Modernization (Azure)**
-*   Orchestrated the successful migration and modernization of an enterprise-scale on-premises Hadoop data lake (involving [specify volume, e.g., terabytes/petabytes] of data) to a cutting-edge Azure cloud platform, leveraging ADLS Gen2, Databricks, and Synapse Analytics.
-*   Redesigned and implemented highly scalable and performant data ingestion, processing, and analytics pipelines, achieving a 30-35% improvement in data processing SLAs and notable operational cost reductions.
-*   Empowered multiple business units with advanced analytics and self-service BI reporting capabilities, fostering a data-driven culture.
+**1. AWS to GCP Databricks Workload Migration & Optimization (NRG Energy)**
+*   Led the architectural design and execution of migrating enterprise Databricks workloads from AWS to Google Cloud Platform (GCP).
+*   Key responsibilities included re-architecting data lake storage on Google Cloud Storage (GCS) for cost-efficiency, redesigning data pipelines for GCP compatibility (leveraging Dataproc where applicable), and ensuring seamless integration with existing GCP services like BigQuery.
+*   Implemented optimized networking solutions using VPC Peering and Private Google Access, enhancing security and data transfer performance.
+*   This strategic migration resulted in a 20% reduction in data storage costs and improved performance for critical analytics workloads on GCP.
 
-**2. Real-time IoT Data Streaming & Analytics Platform**
-*   Architected and delivered a high-throughput, real-time data ingestion and processing platform for IoT sensor data, utilizing Azure IoT Hub, Stream Analytics, and Cosmos DB for low-latency storage and retrieval.
-*   This solution enabled critical near real-time monitoring, anomaly detection, and predictive alerting, directly improving operational efficiency and enabling proactive maintenance strategies.
+**2. Design of a Scalable & Secure Data Analytics Platform on GCP (Conceptual/Representative Project)**
+*   Architected a modern, cloud-native data analytics platform on Google Cloud Platform, designed for scalability, security, and operational efficiency.
+*   The architecture incorporated Google BigQuery for enterprise data warehousing, Google Dataflow for scalable batch and stream data processing, and Cloud Composer for workflow orchestration.
+*   Leveraged Google Cloud Storage (GCS) for a multi-tiered data lake strategy and integrated Identity and Access Management (IAM) for robust security controls.
+*   Focused on defining best practices for data governance, schema management, and CI/CD for data pipelines within the GCP ecosystem.
 
 ## 🎓 Education & Certifications
 
