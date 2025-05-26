@@ -113,8 +113,6 @@ As a Data Engineering Architect, I specialize in the migration and modernization
 *   Played a pivotal role in defining and institutionalizing data architecture standards and best practices within the GCP environment, leading to improved solution quality, consistency, and maintainability across projects.
 *   Provided architectural oversight and collaborated closely with data engineering and platform teams to ensure the seamless integration, optimal performance, and successful deployment of complex data pipelines on GCP.
 
-*(Previous roles and specific achievements would be detailed here in a real scenario, focusing on data migration and modernization successes.)*
-
 ## 🚀 Key Projects
 
 Below are highlights of key projects, demonstrating impact across various platforms and showcasing a journey of leveraging best-of-breed cloud technologies. My recent work and primary architectural focus are now centered on Google Cloud Platform.
