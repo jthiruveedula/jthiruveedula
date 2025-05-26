@@ -63,7 +63,7 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana (Familiar)"/>
 </p>
 
-*   Experience with cloud monitoring tools (e.g., Prometheus, Grafana) and familiarity with services like Azure Monitor.
+*   Experience with cloud monitoring tools (e.g., Prometheus, Grafana) and familiarity with cloud monitoring and log explorer.
 *   Proactive Anomaly Detection, Automated Alerting & Recovery Strategies.
 
 **Blockchain Technology:**
