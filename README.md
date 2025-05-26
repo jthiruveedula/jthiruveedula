@@ -143,7 +143,7 @@ Below are highlights of key projects, demonstrating impact across various platfo
 *   Talend Data Explorer Certification
 *   CCA Spark and Hadoop Developer
 *   Advanced Certification in Block-chain and Distributed Ledger Technologies - IIIT Hyderabad
-*   *(Placeholder: e.g., AWS Certified Big Data – Specialty)*
+
 
 ## 🔗 Connect with Me
 
