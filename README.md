@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-As an Associate Architect Data (GCP), I specialize in designing, architecting, and guiding the implementation of robust, scalable, and secure data-intensive solutions, with a strong focus on the Google Cloud Platform. My core expertise encompasses enterprise-scale data migration and modernization (particularly to GCP), leveraging AI Ops, exploring foundational blockchain applications, and operating in multi-cloud environments. I am dedicated to leveraging cutting-edge technologies, including Google Cloud's advanced data services, to solve complex data challenges, driving business innovation and operational efficiency. My track record demonstrates successful delivery of high-impact data solutions.
+As an Associate Architect Data (GCP), I specialize in designing, architecting, and guiding the implementation of robust, scalable, and secure data-intensive solutions, with deep expertise in the Google Cloud Platform. My core proficiency covers enterprise-scale data migration and modernization (particularly to GCP), leveraging AI Ops, exploring foundational blockchain applications, and operating in multi-cloud environments, complemented by practical working experience with AWS and Azure. I am dedicated to leveraging cutting-edge technologies, including Google Cloud's advanced data services (e.g., BigQuery, Dataflow, Dataproc, Pub/Sub), to solve complex data challenges and drive business innovation. My track record demonstrates successful delivery of high-impact data solutions.
 
 ## ✨ Skills
 
@@ -32,24 +32,36 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 
 **Cloud Platforms & DevOps:**
 
+**Primary Expertise: Google Cloud Platform (GCP)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="Google BigQuery"/>
+  <img src="https://img.shields.io/badge/Google%20Dataflow-4285F4?style=for-the-badge&logo=google-cloud-dataflow&logoColor=white" alt="Google Dataflow"/>
+  <img src="https://img.shields.io/badge/Google%20Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Dataproc"/>
+  <img src="https://img.shields.io/badge/Google%20Pub/Sub-4285F4?style=for-the-badge&logo=google-cloud-pubsub&logoColor=white" alt="Google Pub/Sub"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud-storage&logoColor=white" alt="Google Cloud Storage"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Composer"/>
 </p>
+
+**Working Experience with Other Cloud Platforms:**
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+</p>
+
+**DevOps, CI/CD & Automation:**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 </p>
 
-*   Primary Expertise in **Microsoft Azure**
-*   Proficient with **AWS**
-*   Familiar with **GCP**
-*   CI/CD Pipelines
-*   Infrastructure-as-Code (ARM Templates)
-*   Kubernetes (Basic Orchestration)
+*   Deep expertise in architecting and implementing end-to-end data solutions on **Google Cloud Platform (GCP)**, leveraging services like BigQuery (Data Warehousing, SQL Analytics), Dataflow (Stream/Batch Processing), Dataproc (Managed Spark/Hadoop), Pub/Sub (Messaging), Cloud Storage (Object Storage), and Cloud Composer (Workflow Orchestration).
+*   Practical experience with data services on **AWS** and **Azure**.
+*   Proficient in **CI/CD principles & tools** for automating build, test, and deployment of data infrastructure and pipelines, with specific experience using **GitHub Actions** and Azure DevOps.
+*   Infrastructure-as-Code (IaC) primarily with **Terraform** (for GCP, AWS, Azure) and ARM Templates (for Azure).
+*   Containerization with **Docker** and orchestration with **Kubernetes** (GKE, EKS, AKS).
 
 **AI Ops & Monitoring:**
 
@@ -113,6 +125,8 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 
 ## 🚀 Key Projects
 
+Below are highlights of key projects, demonstrating impact across various platforms and showcasing a journey of leveraging best-of-breed cloud technologies. My recent work and primary architectural focus are now centered on Google Cloud Platform.
+
 **1. Enterprise Data Lake & Analytics Platform Modernization (Azure)**
 *   Orchestrated the successful migration and modernization of an enterprise-scale on-premises Hadoop data lake (involving [specify volume, e.g., terabytes/petabytes] of data) to a cutting-edge Azure cloud platform, leveraging ADLS Gen2, Databricks, and Synapse Analytics.
 *   Redesigned and implemented highly scalable and performant data ingestion, processing, and analytics pipelines, achieving a 30-35% improvement in data processing SLAs and notable operational cost reductions.
@@ -129,10 +143,14 @@ As an Associate Architect Data (GCP), I specialize in designing, architecting, a
 
 **Certifications:**
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/jagadeeshthiruveedula77/credentials/4905501958850c?source=docs"><img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Azure Data Engineer Associate"/></a>
+  <a href="https://google.accredible.com/062666d7-27a3-477e-9bcd-9de670de9f99" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certified - Professional Data Engineer"/></a>
+  <img src="https://img.shields.io/badge/Talend%20Certified-Data%20Explorer-702E8D?style=for-the-badge&logo=talend&logoColor=white" alt="Talend Data Explorer Certification"/>
+  <img src="https://img.shields.io/badge/Cloudera-CCA%20Spark%20%26%20Hadoop%20Developer-F79420?style=for-the-badge&logo=cloudera&logoColor=white" alt="CCA Spark and Hadoop Developer"/>
 </p>
 
-*   *(Placeholder: e.g., Microsoft Certified: Azure Solutions Architect Expert)*
+*   Google Cloud Certified - Professional Data Engineer
+*   Talend Data Explorer Certification
+*   CCA Spark and Hadoop Developer
 *   *(Placeholder: e.g., AWS Certified Big Data – Specialty)*
 *   *(Consider adding a relevant, verifiable blockchain course/certificate if applicable, otherwise, the skills section description is sufficient for "basic exp")*
 
