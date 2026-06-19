@@ -577,44 +577,12 @@ Analyst Productivity via RAG
   Oracle           Mainframe           $1M+ savings        100+ TB HIPAA        50M+ docs
 ```
 
-</div>
-
 <br/>
 
 <table>
-<tr>
-<td width="4%" align="center" valign="top" style="border-right:3px solid #00D4FF;padding:0 4px;">
+<tr><td>
 
-<br/>
-<br/>🟢<br/><sub><i>now</i></sub>
-<br/>━━
-<br/>🟢
-<br/>━━
-<br/>🟢
-<br/>━━
-<br/>🔵
-<br/>━━
-<br/>🔵
-<br/>━━
-<br/>⚪
-<br/>━━
-<br/>⚪
-<br/><sub><i>'15</i></sub>
-
-</td>
-<td width="95%" valign="top">
-
-<table>
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2025`**
-📍 Remote
-
-</td>
-<td valign="top">
-
-**🟢 Forward Deployed Data Architect · John Wiley & Sons**
+**`2025` · 📍 Remote · 🟢 Forward Deployed Data Architect · John Wiley & Sons**
 
 > Embedded with CXO leadership to ship private LLM applications end-to-end; codified reusable RAG + agent patterns adopted across 3 downstream programs.
 
@@ -629,21 +597,9 @@ Analyst Productivity via RAG
 
 `Vertex AI` `LangGraph` `RAGAS` `LangSmith` `Langfuse` `GPT-4o` `Gemini` `Claude`
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2024`**
-📍 Remote
-
-</td>
-<td valign="top">
-
-**🟢 Forward Deployed Data Architect · Definity**
+**`2024` · 📍 Remote · 🟢 Forward Deployed Data Architect · Definity**
 
 > GenAI-powered modernization of legacy mainframe systems; embedded with operations team across 12 COBOL/legacy workstreams.
 
@@ -655,21 +611,9 @@ Analyst Productivity via RAG
 
 `GCP` `BigQuery` `PySpark` `GenAI Code Translation` `VPC` `IAM`
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2024`**
-📍 Remote
-
-</td>
-<td valign="top">
-
-**🔵 Forward Deployed Data Architect · NRG Energy**
+**`2024` · 📍 Remote · 🔵 Forward Deployed Data Architect · NRG Energy**
 
 > Cross-cloud migration with AI-powered predictive analytics; scoped and directed the full AWS → GCP transition.
 
@@ -681,21 +625,9 @@ Analyst Productivity via RAG
 
 `AWS` `GCP` `Databricks` `BigQuery` `Vertex AI`
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2022–2024`**
-📍 Nashville, TN
-
-</td>
-<td valign="top">
-
-**🔵 Lead Data Engineer · HCA Healthcare**
+**`2022–2024` · 📍 Nashville, TN · 🔵 Lead Data Engineer · HCA Healthcare**
 
 > Built GenAI accelerators and led HIPAA-compliant cloud migration at enterprise scale; mentored 5 junior engineers to senior roles.
 
@@ -709,21 +641,9 @@ Analyst Productivity via RAG
 
 `GCP` `PySpark` `Kafka` `Pub/Sub` `HIPAA` `Talend` `GenAI`
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2019–2022`**
-📍 Austin, TX
-
-</td>
-<td valign="top">
-
-**⚪ Senior Data Engineer · Charles Schwab**
+**`2019–2022` · 📍 Austin, TX · ⚪ Senior Data Engineer · Charles Schwab**
 
 > Led multi-petabyte migration and built high-throughput transactional frameworks processing billions of daily records.
 
@@ -737,21 +657,9 @@ Analyst Productivity via RAG
 
 `GCP` `BigQuery` `PySpark` `Terraform` `Dataproc` `Data Fusion` `Qlik`
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2018–2019`**
-📍 Plano, TX
-
-</td>
-<td valign="top">
-
-**⚪ Data Engineer · DSO MCS Group**
+**`2018–2019` · 📍 Plano, TX · ⚪ Data Engineer · DSO MCS Group**
 
 > Built cloud-native mortgage recovery warehousing solutions integrating multiple legacy systems.
 
@@ -762,21 +670,9 @@ Analyst Productivity via RAG
 
 `Talend` `Hive` `Java` `PL/SQL` `Mainframe` `Teradata`
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="20%" align="right" valign="top" style="padding-right:16px">
-
-**`2015–2018`**
-📍 Hyderabad, India
-
-</td>
-<td valign="top">
-
-**⚪ ETL Developer · InnoMinds**
+**`2015–2018` · 📍 Hyderabad, India · ⚪ ETL Developer · InnoMinds**
 
 > Started career building enterprise data warehouse pipelines for the CROMA warehouse — where the foundation was laid.
 
@@ -787,20 +683,8 @@ Analyst Productivity via RAG
 
 `Talend` `PL/SQL` `Java` `Oracle` `Warehouse Modeling`
 
-</td>
-</tr>
-
+</td></tr>
 </table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-
-<div align="center">
 
 ## ◈ EDUCATION & CERTIFICATIONS
 
