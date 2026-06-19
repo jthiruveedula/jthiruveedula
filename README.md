@@ -765,55 +765,131 @@ Analyst Productivity via RAG
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                              │
-│   📈  CAREER TRAJECTORY                                                                      │
-│   ════════════════════════════════════════════════════════════════════════                   │
-│                                                                                              │
-│   2015            2018             2019              2022             2024       2025        │
-│   ┌──────┐       ┌──────┐        ┌──────┐         ┌──────┐         ┌──────┐   ┌──────┐     │
-│   │██████│──────▶│██████│───────▶│██████│────────▶│██████│────────▶│██████│──▶│██████│     │
-│   │██████│       │██████│        │██████│         │██████│         │██████│   │██████│     │
-│   └──┬───┘       └──┬───┘        └──┬───┘         └──┬───┘         └──┬───┘   └──┬───┘     │
-│      │              │               │                │                │          │          │
-│      ▼              ▼               ▼                ▼                ▼          ▼          │
-│  ┌────────┐    ┌────────┐      ┌────────┐       ┌────────┐       ┌────────┐ ┌────────┐   │
-│  │ETL Dev │    │Cloud   │      │Senior  │       │Lead    │       │Forward │ │Forward │   │
-│  │        │    │Data Eng│      │Data Eng│       │Data Eng│       │Deployed│ │Deployed│   │
-│  │InnoMinds    │DSO MCS │      │Charles │       │HCA     │       │Architect│Architect│   │
-│  │        │    │        │      │Schwab  │       │Health  │       │NRG     │ │Wiley   │   │
-│  └────────┘    └────────┘      └────────┘       └────────┘       └────────┘ └────────┘   │
-│                                                                                              │
-│   ┌──────────────────────────────────────────────────────────────────────────────────────┐   │
-│   │  TECH STACK EVOLUTION                                                                │   │
-│   │                                                                                      │   │
-│   │  Talend + SQL + Oracle ──▶ GCP + Hive + Java ──▶ PySpark + Terraform ──▶            │   │
-│   │  Mainframe + PL/SQL        BigQuery + Data        Kafka + Pub/Sub ──▶                │   │
-│   │                             Fusion + Dataproc     Talend (Enterprise)   GenAI + LLMs │   │
-│   │                                                                     LangGraph + RAG  │   │
-│   │                                                                     Vertex AI + Claude│   │
-│   │                                                                     GPT-4o + Gemini   │   │
-│   └──────────────────────────────────────────────────────────────────────────────────────┘   │
-│                                                                                              │
-│   ┌──────────────────────────────────────────────────────────────────────────────────────┐   │
-│   │  📍  LOCATION JOURNEY                                                                │   │
-│   │                                                                                      │   │
-│   │  🇮🇳 Hyderabad ────────▶ 🇺🇸 Plano ────────▶ 🇺🇸 Austin ────────▶ 🇺🇸 Nashville ────▶ Remote │
-│   │                                                                                      │   │
-│   └──────────────────────────────────────────────────────────────────────────────────────┘   │
-│                                                                                              │
-│   ╔════════════════════════════════════════════════════════════════════════════════════════╗ │
-│   ║                                                                                        ║ │
-│   ║  🎯  CURRENT FOCUS:  Production GenAI — Private LLMs · Enterprise RAG · Agentic AI   ║ │
-│   ║                                                                                        ║ │
-│   ║  📊  IMPACT ARC:  ETL Pipelines ──▶ Cloud Architecture ──▶ GenAI Systems ──▶ AI Agents║ │
-│   ║                                                                                        ║ │
-│   ║  🏆  9+ Years  ·  43 Repos  ·  50M+ Documents Processed  ·  $1M+ Cost Savings        ║ │
-│   ║                                                                                        ║ │
-│   ╚════════════════════════════════════════════════════════════════════════════════════════╝ │
-│                                                                                              │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<br/>
+
+## 📈 CAREER TRAJECTORY
+
+<br/>
+
+<table>
+<tr align="center">
+<td width="16%">
+<b>2015</b><br/>
+━━━━━━━━━━<br/>
+🟢 InnoMinds<br/>
+<sub>Hyderabad, India</sub><br/>
+━━━━━━━━━━<br/>
+<sub>ETL Developer</sub>
+</td>
+<td width="2%">→</td>
+<td width="16%">
+<b>2018</b><br/>
+━━━━━━━━━━<br/>
+🟢 DSO MCS Group<br/>
+<sub>Plano, TX</sub><br/>
+━━━━━━━━━━<br/>
+<sub>Data Engineer</sub>
+</td>
+<td width="2%">→</td>
+<td width="16%">
+<b>2019</b><br/>
+━━━━━━━━━━<br/>
+🔵 Charles Schwab<br/>
+<sub>Austin, TX</sub><br/>
+━━━━━━━━━━<br/>
+<sub>Sr. Data Engineer</sub>
+</td>
+<td width="2%">→</td>
+<td width="16%">
+<b>2022</b><br/>
+━━━━━━━━━━<br/>
+🔵 HCA Healthcare<br/>
+<sub>Nashville, TN</sub><br/>
+━━━━━━━━━━<br/>
+<sub>Lead Data Engineer</sub>
+</td>
+<td width="2%">→</td>
+<td width="16%">
+<b>2024</b><br/>
+━━━━━━━━━━<br/>
+🔵 NRG Energy<br/>
+<sub>Remote</sub><br/>
+━━━━━━━━━━<br/>
+<sub>FDE Architect</sub>
+</td>
+<td width="2%">→</td>
+<td width="16%">
+<b>2025</b><br/>
+━━━━━━━━━━<br/>
+🟢 Wiley & Definity<br/>
+<sub>Remote</sub><br/>
+━━━━━━━━━━<br/>
+<sub>FDE Data Architect</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+> 📊 **Tech Stack Evolution:** `Talend` `PL/SQL` `Oracle` `Mainframe` → `GCP` `BigQuery` `PySpark` `Terraform` → `Kafka` `Pub/Sub` `HIPAA` → `GenAI` `LangGraph` `RAGAS` `Vertex AI` `RAG` `LLMs` `Agentic AI`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+> 🎯 **CURRENT FOCUS**
+> Production GenAI — Private LLMs · Enterprise RAG · Agentic AI
+
+</td>
+<td width="50%" align="center">
+
+> 🏆 **IMPACT ARC**
+> ETL Pipelines → Cloud Architecture → GenAI Systems → AI Agents
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📈 9+ Years
+
+</td>
+<td width="33%" align="center">
+
+### 🗂️ 43 Repos
+
+</td>
+<td width="34%" align="center">
+
+### 📊 50M+ Documents
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 💰 $1M+ Saved
+
+</td>
+<td align="center">
+
+### 🏥 100+ TB Migrated
+
+</td>
+<td align="center">
+
+### ⚡ 1B+ Records/Day
+
+</td>
+</tr>
+</table>
 
 </div>
 
