@@ -472,7 +472,7 @@ Analyst Productivity via RAG
 </td>
 <td width="50%" align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jthiruveedula&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4)](https://github.com/jthiruveedula)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true&custom_title=📂+REPOS+%26+PRs)](https://github.com/jthiruveedula)
 
 </td>
 </tr>
