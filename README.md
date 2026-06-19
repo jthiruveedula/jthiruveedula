@@ -764,9 +764,6 @@ Analyst Productivity via RAG
 
 <div align="center">
 
-```
-<div align="center">
-
 <br/>
 
 ## 📈 CAREER TRAJECTORY
