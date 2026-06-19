@@ -472,7 +472,7 @@ Analyst Productivity via RAG
 </td>
 <td width="50%" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=true&custom_title=📂+REPOS+%26+PRs)](https://github.com/jthiruveedula)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&custom_title=📂+REPOS+%26+PRs)](https://github.com/jthiruveedula)
 
 </td>
 </tr>
@@ -525,34 +525,213 @@ Analyst Productivity via RAG
 
 ## ◈ CAREER TIMELINE
 
+*From building ETL pipelines in India to shipping production GenAI for Fortune 500s in Dallas — a 9-year arc across data engineering, cloud architecture, and AI systems.*
+
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  2025 ──●── Forward Deployed Data Architect · John Wiley & Sons             │
-│  │          Private LLM apps · RAG over 50M+ docs · Multi-turn agents      │
-│  │                                                                          │
-│  2024 ──●── Forward Deployed Data Architect · Definity                      │
-│  │          GenAI code translation · COBOL → BigQuery + PySpark             │
-│  │                                                                          │
-│  2024 ──●── Forward Deployed Data Architect · NRG Energy                    │
-│  │          Cross-cloud migration · AWS → GCP Databricks                    │
-│  │                                                                          │
-│  2022 ──●── Lead Data Engineer · HCA Healthcare                             │
-│  │          GenAI accelerators · 100+ TB HIPAA migration · Kafka streaming  │
-│  │                                                                          │
-│  2019 ──●── Senior Data Engineer · Charles Schwab                           │
-│  │          Multi-PB migration · 1B+ daily records · $1M+ savings           │
-│  │                                                                          │
-│  2018 ──●── Data Engineer · DSO MCS Group                                   │
-│  │          Cloud-native mortgage warehousing                               │
-│  │                                                                          │
-│  2015 ──●── ETL Developer · InnoMinds                                       │
-│             Warehouse ETL pipelines · Talend + PL/SQL                       │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="5%" align="center" valign="top" style="border-right:3px solid #00D4FF">
+
+<br/>🟢
+<br/>━━━
+<br/>🟢
+<br/>━━━
+<br/>🟢
+<br/>━━━
+<br/>🔵
+<br/>━━━
+<br/>🔵
+<br/>━━━
+<br/>⚪
+<br/>━━━
+<br/>⚪
+
+</td>
+<td width="95%" valign="top">
+
+<table>
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2025`**
+
+</td>
+<td valign="top">
+
+**🟢 Forward Deployed Data Architect · [John Wiley & Sons](https://github.com/jthiruveedula)**
+
+> Embedded with CXO leadership to ship private LLM applications end-to-end.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| 🏗️ | RAG over **50M+ enterprise documents** — 95% grounded accuracy |
+| 🤖 | Multi-turn agent with **60% tier-1 ticket deflection** |
+| 📦 | Codified reusable RAG + agent patterns adopted across **3 programs** |
+| 🔒 | Deployed behind SSO/SAML, VPC-SC, CMEK — zero data exfiltration |
+
+`Vertex AI` `LangGraph` `RAGAS` `LangSmith` `GPT-4o` `Gemini` `Claude`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2024`**
+
+</td>
+<td valign="top">
+
+**🟢 Forward Deployed Data Architect · [Definity](https://github.com/jthiruveedula)**
+
+> GenAI-powered modernization of legacy mainframe systems.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| 🔄 | Built GenAI code translation pipeline — **COBOL → BigQuery + PySpark** |
+| 🧪 | Eval harness measuring semantic fidelity across 12 legacy workstreams |
+| 📋 | Codified **5 reusable transformation patterns** into platform playbook |
+
+`GCP` `BigQuery` `PySpark` `GenAI Code Translation` `VPC` `IAM`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2024`**
+
+</td>
+<td valign="top">
+
+**🔵 Forward Deployed Data Architect · [NRG Energy](https://github.com/jthiruveedula)**
+
+> Cross-cloud migration with AI-powered predictive analytics.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| ☁️ | Directed **AWS → GCP Databricks** migration with phased cutover |
+| 📊 | Built cross-cloud ingestion pipelines with **Vertex AI** for predictive maintenance |
+| ⚡ | Seamless transition — near-zero downtime, impacted uptime SLAs |
+
+`AWS` `GCP` `Databricks` `BigQuery` `Vertex AI`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2022`**
+
+</td>
+<td valign="top">
+
+**🔵 Lead Data Engineer · [HCA Healthcare](https://github.com/jthiruveedula)**
+
+> Built GenAI accelerators and led HIPAA-compliant cloud migration at scale.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| 🚀 | Custom **GenAI accelerators** — automated legacy ETL → PySpark conversion |
+| 📈 | **50% cut** in delivery timelines · adopted across 10+ programs |
+| 🏥 | Migrated **100+ TB** to GCP under HIPAA — boosted ETL performance 30% |
+| 🎯 | Real-time Kafka + Pub/Sub streaming for **50+ data sources** |
+| 👥 | Mentored **5 junior engineers to senior roles** |
+
+`GCP` `PySpark` `Kafka` `Pub/Sub` `HIPAA` `Talend`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2019`**
+
+</td>
+<td valign="top">
+
+**⚪ Senior Data Engineer · [Charles Schwab](https://github.com/jthiruveedula)**
+
+> Led multi-petabyte migration and built high-throughput transactional frameworks.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| 💰 | Multi-PB Hadoop/Teradata → GCP — **$1M+ annual savings** |
+| ⚡ | **1B+ daily records** with zero data loss · 25% speed improvement |
+| 📦 | High-throughput framework — **30M records/day** at 99.5% SLA |
+| 🏗️ | IaC with Terraform + Bitbucket — **50% faster release cycles** |
+| 📰 | Featured in **Free Press Journal** for cloud-native frameworks |
+
+`GCP` `BigQuery` `PySpark` `Terraform` `Dataproc` `Data Fusion`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2018`**
+
+</td>
+<td valign="top">
+
+**⚪ Data Engineer · DSO MCS Group**
+
+> Built cloud-native mortgage recovery warehousing solutions.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| 🏦 | Unified analytics platform integrating Mainframe + Teradata + NAS |
+| 📋 | Reusable Talend frameworks for SCD, snapshot ingestion, DQ checks |
+
+`Talend` `Hive` `Java` `PL/SQL` `Mainframe`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="20%" align="right" valign="top" style="padding-right:16px">
+
+**`2015`**
+
+</td>
+<td valign="top">
+
+**⚪ ETL Developer · InnoMinds · Hyderabad, India**
+
+> Started career building enterprise data warehouse pipelines.
+
+| ✅ | ACHIEVEMENT |
+|:---:|:---|
+| 📊 | Designed robust ETL pipelines for CROMA warehouse |
+| 🔧 | Talend jobs for extraction, error handling, fact/dimension modeling |
+
+`Talend` `PL/SQL` `Java` `Oracle`
+
+</td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
 
 </div>
 
