@@ -26,6 +26,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🐍 Auto-generate contribution snake animation"
-          branch: output
+          branch: main
+          file_pattern: "dist/*"
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
