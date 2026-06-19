@@ -21,8 +21,8 @@
 
 [![Open to Work](https://img.shields.io/badge/%F0%9F%92%AC_Open_to_Work-00D4FF?style=for-the-badge&labelColor=0D1117)](https://linkedin.com/in/jagadeesh-thiruveedula)
 [![Profile Views](https://komarev.com/ghpvc/?username=jthiruveedula&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/jthiruveedula)
-[![Followers](https://img.shields.io/github/followers/jthiruveedula?color=00D4FF&style=for-the-badge&label= FOLLOWERS&labelColor=0D1117)](https://github.com/jthiruveedula?tab=followers)
-[![Repos](https://img.shields.io/github/repos/jthiruveedula?color=7C3AED&style=for-the-badge&label= REPOS&labelColor=0D1117)](https://github.com/jthiruveedula?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/jthiruveedula?color=00D4FF&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117)](https://github.com/jthiruveedula?tab=followers)
+[![Repos](https://img.shields.io/github/repos/jthiruveedula?color=7C3AED&style=for-the-badge&label=REPOS&labelColor=0D1117)](https://github.com/jthiruveedula?tab=repositories)
 
 </div>
 
