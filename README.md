@@ -119,16 +119,48 @@ Analyst Productivity via RAG
 
 <br/>
 
-| DOMAIN | FOCUS AREAS | STATUS |
-|:---:|:---|:---:|
-| 🧠 **LLM & GenAI** | GPT-4o, Claude Sonnet 4, Gemini 1.5 Pro, PaLM 2, Llama 3, Prompt Architecture, Fine-tuning (LoRA/QLoRA), Guardrails | `ACTIVE` |
-| 🔍 **RAG & Vector** | Vertex AI Vector Search, Pinecone, Weaviate, pgvector, FAISS, Chroma, Hybrid Search, Reranking, Embeddings | `ACTIVE` |
-| 🤖 **Agent Frameworks** | LangChain, LangGraph, CrewAI, DSPy, MCP Servers, Tool-Use Chains, Multi-Turn Agents, HITL | `ACTIVE` |
-| 📊 **Eval & Observability** | RAGAS, LangSmith, Langfuse, Arize Phoenix, LLM-as-Judge, Hallucination/Drift Detection, A/B Routing | `ACTIVE` |
-| ☁️ **Cloud & MLOps** | GCP (BigQuery, Dataflow, Pub/Sub), AWS, Snowflake, Databricks, MLflow, Docker, Kubernetes | `DEPLOYED` |
-| ⚡ **Data Engineering** | PySpark, Spark, Kafka, Airflow, dbt, Talend, Informatica, CDC, Streaming Pipelines, ETL Modernization | `DEPLOYED` |
-| 🔒 **DevOps & IaC** | Terraform, GitHub Actions, CI/CD, VPC-SC, CMEK, SSO/SAML, IAM, HIPAA/SOC 2/FedRAMP | `DEPLOYED` |
-| 💻 **Languages** | Python, SQL, Scala, Java, Shell · Oracle, MSSQL, MySQL, Teradata, Hive, Postgres | `ACTIVE` |
+<table>
+<tr align="center">
+<td width="25%"><b>🧠 LLM & GenAI</b></td>
+<td width="45%">GPT-4o, Claude Sonnet 4, Gemini 1.5 Pro, PaLM 2, Llama 3, Prompt Architecture, Fine-tuning (LoRA/QLoRA), Guardrails</td>
+<td width="30%"><img src="https://img.shields.io/badge/ACTIVE-00D4FF?style=flat-square&labelColor=0D1117" alt="Active"/></td>
+</tr>
+<tr align="center">
+<td><b>🔍 RAG & Vector</b></td>
+<td>Vertex AI Vector Search, Pinecone, Weaviate, pgvector, FAISS, Chroma, Hybrid Search, Reranking, Embeddings</td>
+<td><img src="https://img.shields.io/badge/ACTIVE-00D4FF?style=flat-square&labelColor=0D1117" alt="Active"/></td>
+</tr>
+<tr align="center">
+<td><b>🤖 Agent Frameworks</b></td>
+<td>LangChain, LangGraph, CrewAI, DSPy, MCP Servers, Tool-Use Chains, Multi-Turn Agents, HITL</td>
+<td><img src="https://img.shields.io/badge/ACTIVE-00D4FF?style=flat-square&labelColor=0D1117" alt="Active"/></td>
+</tr>
+<tr align="center">
+<td><b>📊 Eval & Observability</b></td>
+<td>RAGAS, LangSmith, Langfuse, Arize Phoenix, LLM-as-Judge, Hallucination/Drift Detection, A/B Routing</td>
+<td><img src="https://img.shields.io/badge/ACTIVE-00D4FF?style=flat-square&labelColor=0D1117" alt="Active"/></td>
+</tr>
+<tr align="center">
+<td><b>☁️ Cloud & MLOps</b></td>
+<td>GCP (BigQuery, Dataflow, Pub/Sub), AWS, Snowflake, Databricks, MLflow, Docker, Kubernetes</td>
+<td><img src="https://img.shields.io/badge/DEPLOYED-7C3AED?style=flat-square&labelColor=0D1117" alt="Deployed"/></td>
+</tr>
+<tr align="center">
+<td><b>⚡ Data Engineering</b></td>
+<td>PySpark, Spark, Kafka, Airflow, dbt, Talend, Informatica, CDC, Streaming Pipelines, ETL Modernization</td>
+<td><img src="https://img.shields.io/badge/DEPLOYED-7C3AED?style=flat-square&labelColor=0D1117" alt="Deployed"/></td>
+</tr>
+<tr align="center">
+<td><b>🔒 DevOps & IaC</b></td>
+<td>Terraform, GitHub Actions, CI/CD, VPC-SC, CMEK, SSO/SAML, IAM, HIPAA/SOC 2/FedRAMP</td>
+<td><img src="https://img.shields.io/badge/DEPLOYED-7C3AED?style=flat-square&labelColor=0D1117" alt="Deployed"/></td>
+</tr>
+<tr align="center">
+<td><b>💻 Languages</b></td>
+<td>Python, SQL, Scala, Java, Shell · Oracle, MSSQL, MySQL, Teradata, Hive, Postgres</td>
+<td><img src="https://img.shields.io/badge/ACTIVE-00D4FF?style=flat-square&labelColor=0D1117" alt="Active"/></td>
+</tr>
+</table>
 
 </div>
 
@@ -499,19 +531,21 @@ Analyst Productivity via RAG
 <td width="50%" valign="top">
 
 **🔬 Currently Exploring**
-- MCP Server patterns for enterprise tool-use
-- Google ADK for agentic workflows
-- Cost-aware model routing & caching
-- LLM-as-judge evaluation frameworks
+
+[![MCP](https://img.shields.io/badge/MCP_Servers-7C3AED?style=for-the-badge&logo=ai&logoColor=white)](#)
+[![ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+[![Routing](https://img.shields.io/badge/Cost_Aware_Routing-FF6B35?style=for-the-badge&logo=ai&logoColor=white)](#)
+[![Eval](https://img.shields.io/badge/LLM_as_Judge-00D4FF?style=for-the-badge&logo=ai&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
 **📖 Recent Interests**
-- Private LLM deployment patterns (VPC-SC, CMEK)
-- RAGAS + LangSmith eval pipelines
-- Prompt versioning & A/B routing
-- Multimodal RAG (Vision + Audio)
+
+[![VPC-SC](https://img.shields.io/badge/Private_LLM_Deployment-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+[![RAGAS](https://img.shields.io/badge/RAGAS_+_LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![A/B](https://img.shields.io/badge/Prompt_A_B_Routing-7C3AED?style=for-the-badge&logo=ai&logoColor=white)](#)
+[![Multimodal](https://img.shields.io/badge/Multimodal_RAG-E25A1C?style=for-the-badge&logo=ai&logoColor=white)](#)
 
 </td>
 </tr>
@@ -549,21 +583,23 @@ Analyst Productivity via RAG
 
 <table>
 <tr>
-<td width="5%" align="center" valign="top" style="border-right:3px solid #00D4FF">
+<td width="4%" align="center" valign="top" style="border-right:3px solid #00D4FF;padding:0 4px;">
 
+<br/>
+<br/>🟢<br/><sub><i>now</i></sub>
+<br/>━━
 <br/>🟢
-<br/>━━━
+<br/>━━
 <br/>🟢
-<br/>━━━
-<br/>🟢
-<br/>━━━
+<br/>━━
 <br/>🔵
-<br/>━━━
+<br/>━━
 <br/>🔵
-<br/>━━━
+<br/>━━
 <br/>⚪
-<br/>━━━
+<br/>━━
 <br/>⚪
+<br/><sub><i>'15</i></sub>
 
 </td>
 <td width="95%" valign="top">
@@ -762,135 +798,7 @@ Analyst Productivity via RAG
 
 <br/>
 
-<div align="center">
 
-<br/>
-
-## 📈 CAREER TRAJECTORY
-
-<br/>
-
-<table>
-<tr align="center">
-<td width="16%">
-<b>2015</b><br/>
-━━━━━━━━━━<br/>
-🟢 InnoMinds<br/>
-<sub>Hyderabad, India</sub><br/>
-━━━━━━━━━━<br/>
-<sub>ETL Developer</sub>
-</td>
-<td width="2%">→</td>
-<td width="16%">
-<b>2018</b><br/>
-━━━━━━━━━━<br/>
-🟢 DSO MCS Group<br/>
-<sub>Plano, TX</sub><br/>
-━━━━━━━━━━<br/>
-<sub>Data Engineer</sub>
-</td>
-<td width="2%">→</td>
-<td width="16%">
-<b>2019</b><br/>
-━━━━━━━━━━<br/>
-🔵 Charles Schwab<br/>
-<sub>Austin, TX</sub><br/>
-━━━━━━━━━━<br/>
-<sub>Sr. Data Engineer</sub>
-</td>
-<td width="2%">→</td>
-<td width="16%">
-<b>2022</b><br/>
-━━━━━━━━━━<br/>
-🔵 HCA Healthcare<br/>
-<sub>Nashville, TN</sub><br/>
-━━━━━━━━━━<br/>
-<sub>Lead Data Engineer</sub>
-</td>
-<td width="2%">→</td>
-<td width="16%">
-<b>2024</b><br/>
-━━━━━━━━━━<br/>
-🔵 NRG Energy<br/>
-<sub>Remote</sub><br/>
-━━━━━━━━━━<br/>
-<sub>FDE Architect</sub>
-</td>
-<td width="2%">→</td>
-<td width="16%">
-<b>2025</b><br/>
-━━━━━━━━━━<br/>
-🟢 Wiley & Definity<br/>
-<sub>Remote</sub><br/>
-━━━━━━━━━━<br/>
-<sub>FDE Data Architect</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-> 📊 **Tech Stack Evolution:** `Talend` `PL/SQL` `Oracle` `Mainframe` → `GCP` `BigQuery` `PySpark` `Terraform` → `Kafka` `Pub/Sub` `HIPAA` → `GenAI` `LangGraph` `RAGAS` `Vertex AI` `RAG` `LLMs` `Agentic AI`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-> 🎯 **CURRENT FOCUS**
-> Production GenAI — Private LLMs · Enterprise RAG · Agentic AI
-
-</td>
-<td width="50%" align="center">
-
-> 🏆 **IMPACT ARC**
-> ETL Pipelines → Cloud Architecture → GenAI Systems → AI Agents
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📈 9+ Years
-
-</td>
-<td width="33%" align="center">
-
-### 🗂️ 43 Repos
-
-</td>
-<td width="34%" align="center">
-
-### 📊 50M+ Documents
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-### 💰 $1M+ Saved
-
-</td>
-<td align="center">
-
-### 🏥 100+ TB Migrated
-
-</td>
-<td align="center">
-
-### ⚡ 1B+ Records/Day
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
@@ -903,19 +811,28 @@ Analyst Productivity via RAG
 <td width="60%" valign="top">
 
 ### 🎓 Education
-- **Advanced Certificate** — Blockchain & Distributed Ledger Technologies · *IIIT Hyderabad* · 2019–2020
-- **Bachelor of Technology** — Electrical Engineering · *Jawaharlal Nehru Technological University* · 2015
+
+[![IIIT Hyderabad](https://img.shields.io/badge/IIIT_Hyderabad-1C3C3C?style=for-the-badge&logo=university&logoColor=white)](#)
+*Advanced Certificate* — Blockchain & Distributed Ledger Technologies · 2019–2020
+
+[![JNTU](https://img.shields.io/badge/JNTU_Hyderabad-1C3C3C?style=for-the-badge&logo=university&logoColor=white)](#)
+*B.Tech* — Electrical Engineering · 2015
 
 </td>
 <td width="40%" valign="top">
 
 ### 📜 Certifications
-- 🏅 **Google Cloud Professional Data Engineer** (GCP PDE)
-- 🏅 **Talend Data Explorer**
-- 🏅 **Spark Certified Hadoop Developer**
+
+[![GCP PDE](https://img.shields.io/badge/Google_Cloud_Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+[![Talend](https://img.shields.io/badge/Talend_Data_Explorer-E25A1C?style=for-the-badge&logo=talend&logoColor=white)](#)
+[![Spark](https://img.shields.io/badge/Spark_Certified_Hadoop_Developer-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](#)
+
+<br/>
 
 ### 🌐 Languages
-English · Telugu (Fluent) · Hindi (Proficient)
+![English](https://img.shields.io/badge/English-Fluent-00D4FF?style=flat-square&labelColor=0D1117)
+![Telugu](https://img.shields.io/badge/Telugu-Fluent-00D4FF?style=flat-square&labelColor=0D1117)
+![Hindi](https://img.shields.io/badge/Hindi-Proficient-7C3AED?style=flat-square&labelColor=0D1117)
 
 </td>
 </tr>
@@ -931,9 +848,22 @@ English · Telugu (Fluent) · Hindi (Proficient)
 
 <br/>
 
-> 📰 Featured in **Free Press Journal** (May 2025) for cloud-native data frameworks adopted across 10+ enterprise programs.
+<table>
+<tr>
+<td width="15%" align="center">
 
-[![LinkedIn](https://img.shields.io/badge/📖_Read_More-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadeesh-thiruveedula)
+📰
+</td>
+<td width="85%">
+
+### Featured in **Free Press Journal**
+*May 2025* — Cloud-native data frameworks adopted across **10+ enterprise programs** spanning healthcare, finance, insurance, and publishing.
+
+</td>
+</tr>
+</table>
+
+[![LinkedIn](https://img.shields.io/badge/📖_Read_Article-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadeesh-thiruveedula)
 
 </div>
 
