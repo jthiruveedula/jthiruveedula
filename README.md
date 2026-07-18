@@ -1,3 +1,10 @@
+<!-- ═════════════════════════════════════════════════════════════════════════════════
+     SEO / DISCOVERABILITY META (hidden) — GitHub profile search indexing keywords
+     GenAI Engineer | RAG | LangGraph | MCP | A2A | Google ADK | GCP | BigQuery |
+     LLMOps | Agentic AI | Vertex AI | Claude | Gemini | Algorithmic Trading |
+     Dallas TX | Forward Deployed Engineer | Private LLM Apps
+════════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <!-- ═══════════════════════ H O L O G R A P H I C   H E A D E R ═══════════════════════ -->
@@ -19,7 +26,7 @@
 <div align="center" style="margin:8px 0">
 
 <a href="https://linkedin.com/in/jagadeesh-thiruveedula">
-  <img src="https://img.shields.io/badge/%F0%9F%92%AC_OPEN_TO_WORK-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=7C3AED"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC_OPEN_TO_COLLABORATE-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=7C3AED"/>
 </a>
 <a href="https://github.com/jthiruveedula">
   <img src="https://komarev.com/ghpvc/?username=jthiruveedula&color=00D4FF&style=for-the-badge&label=VIEWS&labelColor=0D1117"/>
@@ -28,7 +35,7 @@
   <img src="https://img.shields.io/github/followers/jthiruveedula?color=00D4FF&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/jthiruveedula?tab=repositories">
-  <img src="https://img.shields.io/github/repos/jthiruveedula?color=FF6B35&style=for-the-badge&label=REPOS&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/repo-count/jthiruveedula?color=FF6B35&style=for-the-badge&label=REPOS&labelColor=0D1117"/>
 </a>
 
 </div>
@@ -39,11 +46,11 @@
 
 <div align="center" style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.06));border:1px solid rgba(124,58,237,0.15);border-radius:12px;padding:24px 32px;box-shadow:0 4px 24px rgba(124,58,237,0.08),inset 0 1px 0 rgba(255,255,255,0.04);border-left:3px solid #00D4FF;max-width:800px;margin:0 auto">
 
-Forward Deployed Engineer with **9+ years** embedding with Fortune 500 customers to ship **production GenAI systems** — private LLM applications, RAG assistants, and multi-turn agents — end-to-end from discovery through production.
+Forward Deployed Engineer with **9+ years** embedding with Fortune 500 customers to ship **production GenAI systems** — private LLM applications, RAG assistants, agentic workflows, and MCP-powered tool-use — end-to-end from discovery through production.
 
 Track record: **$2M+ cost savings** · **500+ TiB cloud migrations** · **1B+ daily events at 99.9% uptime** · LLM apps serving **50M+ documents with 95% grounded accuracy**.
 
-Focused on **evaluation, guardrails, and production observability** — the work that turns a demo into a renewing customer.
+Focused on **MCP servers, Google ADK, agentic systems, evaluation, guardrails, and production observability** — the work that turns a demo into a renewing customer.
 
 </div>
 
@@ -130,7 +137,7 @@ Focused on **evaluation, guardrails, and production observability** — the work
 <table style="border-collapse:separate;border-spacing:0 6px;max-width:800px;margin:0 auto">
 <tr align="center" style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04));border-radius:8px">
 <td width="22%" style="padding:14px 12px;border:1px solid rgba(124,58,237,0.12);border-radius:8px 0 0 8px"><b style="color:#C9D1D9">🧠 LLM & GenAI</b></td>
-<td width="50%" style="padding:14px 12px;border-top:1px solid rgba(124,58,237,0.12);border-bottom:1px solid rgba(124,58,237,0.12);font-size:13px;color:#8B949E">GPT-4o, Claude Sonnet 4, Gemini 1.5 Pro, PaLM 2, Llama 3, Prompt Architecture, Fine-tuning, Guardrails</td>
+<td width="50%" style="padding:14px 12px;border-top:1px solid rgba(124,58,237,0.12);border-bottom:1px solid rgba(124,58,237,0.12);font-size:13px;color:#8B949E">GPT-4o, Claude Sonnet 4.5 / Opus 4, Gemini 2.5 Flash, PaLM 2, Llama 3, Prompt Architecture, Fine-tuning, Guardrails</td>
 <td width="28%" style="padding:14px 12px;border:1px solid rgba(0,212,255,0.2);border-radius:0 8px 8px 0"><span style="background:rgba(0,212,255,0.1);border:1px solid rgba(0,212,255,0.2);border-radius:12px;padding:4px 12px;font-size:11px;color:#00D4FF">ACTIVE</span></td>
 </tr>
 <tr align="center" style="background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.06))">
@@ -140,7 +147,12 @@ Focused on **evaluation, guardrails, and production observability** — the work
 </tr>
 <tr align="center" style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04))">
 <td style="padding:14px 12px;border:1px solid rgba(124,58,237,0.12);border-radius:8px 0 0 8px"><b style="color:#C9D1D9">🤖 Agent Frameworks</b></td>
-<td style="padding:14px 12px;border-top:1px solid rgba(124,58,237,0.12);border-bottom:1px solid rgba(124,58,237,0.12);font-size:13px;color:#8B949E">LangChain, LangGraph, CrewAI, DSPy, MCP Servers, Tool-Use Chains, Multi-Turn Agents, HITL</td>
+<td style="padding:14px 12px;border-top:1px solid rgba(124,58,237,0.12);border-bottom:1px solid rgba(124,58,237,0.12);font-size:13px;color:#8B949E">LangChain, LangGraph, CrewAI, DSPy, Google ADK, A2A Protocol, MCP Servers, Tool-Use Chains, Multi-Turn Agents, HITL</td>
+<td style="padding:14px 12px;border:1px solid rgba(0,212,255,0.2);border-radius:0 8px 8px 0"><span style="background:rgba(0,212,255,0.1);border:1px solid rgba(0,212,255,0.2);border-radius:12px;padding:4px 12px;font-size:11px;color:#00D4FF">ACTIVE</span></td>
+</tr>
+<tr align="center" style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04))">
+<td style="padding:14px 12px;border:1px solid rgba(124,58,237,0.12);border-radius:8px 0 0 8px"><b style="color:#C9D1D9">🕸️ Agentic & Protocols</b></td>
+<td style="padding:14px 12px;border-top:1px solid rgba(124,58,237,0.12);border-bottom:1px solid rgba(124,58,237,0.12);font-size:13px;color:#8B949E">Google ADK, A2A Protocol, MCP, Claude Code / Enterprise, OpenAI o3 / o4-mini, DeepSeek, Gemini 2.5</td>
 <td style="padding:14px 12px;border:1px solid rgba(0,212,255,0.2);border-radius:0 8px 8px 0"><span style="background:rgba(0,212,255,0.1);border:1px solid rgba(0,212,255,0.2);border-radius:12px;padding:4px 12px;font-size:11px;color:#00D4FF">ACTIVE</span></td>
 </tr>
 <tr align="center" style="background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.06))">
@@ -475,11 +487,15 @@ Focused on **evaluation, guardrails, and production observability** — the work
 <div style="font-family:'Fira Code',monospace;font-size:13px;color:#7C3AED;margin:8px 0 6px 0">▸ LLM & GENAI</div>
 <div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center;margin-bottom:12px">
 <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_Sonnet_4-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Sonnet_4.5-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_o3--o4-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/A2A_Protocol-7C3AED?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-CC0000?style=flat-square&logo=anthropic&logoColor=white"/>
 </div>
 
 <div style="font-family:'Fira Code',monospace;font-size:13px;color:#00D4FF;margin:8px 0 6px 0">▸ RAG & VECTOR</div>
@@ -522,6 +538,23 @@ Focused on **evaluation, guardrails, and production observability** — the work
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </div>
 
+<div style="font-family:'Fira Code',monospace;font-size:13px;color:#FF6B35;margin:8px 0 6px 0">▸ TRADING SYSTEMS</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center;margin-bottom:12px">
+<img src="https://img.shields.io/badge/IBKR-202020?style=flat-square&logo=interactivebrokers&logoColor=white"/>
+<img src="https://img.shields.io/badge/Polygon.io-00C805?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robinhood-00C805?style=flat-square&logo=robinhood&logoColor=white"/>
+<img src="https://img.shields.io/badge/Options_Flow-FF6B35?style=flat-square&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Signal_Gen-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
+</div>
+
+<div style="font-family:'Fira Code',monospace;font-size:13px;color:#7C3AED;margin:8px 0 6px 0">▸ AI CODING TOOLS</div>
+<div style="display:flex;flex-wrap:wrap;gap:4px;justify-content:center">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windsurf-1C3C3C?style=flat-square&logo=codeium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aider-7C3AED?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white"/>
+</div>
+
 </div>
 
 </div>
@@ -539,14 +572,36 @@ Focused on **evaluation, guardrails, and production observability** — the work
 <br/>
 
 <div style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.06));border:1px solid rgba(124,58,237,0.12);border-radius:12px;padding:20px;max-width:780px;margin:0 auto;box-shadow:0 4px 24px rgba(124,58,237,0.06)">
-Currently focused on <strong>production-grade agentic systems</strong> — building multi-agent orchestration platforms with governance, eval harnesses, and human-in-the-loop controls. Exploring <strong>MCP servers</strong> and <strong>ADK</strong> patterns for secure tool-use in enterprise environments.
+Currently focused on <strong>production-grade agentic systems</strong> — building MCP server ecosystems, multi-agent orchestration on <strong>Google ADK</strong>, and production <strong>A2A agents</strong> with governance, eval harnesses, and human-in-the-loop controls.
 <div style="display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:12px 0">
-<img src="https://img.shields.io/badge/MCP_Servers-7C3AED?style=flat-square&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_Server_Ecosystem-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cost_Aware_Routing-FF6B35?style=flat-square&logo=ai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_as_Judge-00D4FF?style=flat-square&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/A2A_Agents-00D4FF?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cost_Aware_Routing-FF6B35?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_as_Judge-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
 </div>
-<div style="font-size:12px;color:#8B949E;margin-top:4px">📖 Recent interests: Private LLM Deployment · RAGAS + LangSmith · Prompt A/B Routing · Multimodal RAG</div>
+<div style="display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:6px 0">
+<img src="https://img.shields.io/badge/Status-MCP%20%E2%9A%A1%20IN%20PROGRESS-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Status-A2A%20%EF%B8%8F%20RESEARCH-00D4FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Status-Trading%20%F0%9F%93%88%20SHIPPED-FF6B35?style=for-the-badge&labelColor=0D1117"/>
+</div>
+<div style="font-size:13px;color:#C9D1D9;margin-top:8px">▸ <strong>Side project:</strong> Algorithmic trading systems with AI-generated options/equity signals (IBKR · Polygon.io · Robinhood API)</div>
+<div style="font-size:13px;color:#C9D1D9;margin-top:4px">▸ <strong>Learning:</strong> Advanced LLM reasoning — o3 / Sonnet 4.5 thinking modes, ADK multi-agent patterns</div>
+<div style="font-size:12px;color:#8B949E;margin-top:8px">📖 Recent: Private LLM Deployment · RAGAS + LangSmith · Prompt A/B Routing · Multimodal RAG</div>
+</div>
+
+<br/>
+
+<div align="center">
+
+<div style="font-family:'Fira Code',monospace;font-size:16px;color:#00D4FF;margin:8px 0 6px 0">▸ CURRENTLY READING / LEARNING</div>
+<div style="display:flex;flex-wrap:wrap;gap:6px;justify-content:center;max-width:780px;margin:0 auto">
+<img src="https://img.shields.io/badge/%F0%9F%93%96_Anthropic_Interpretability-7C3AED?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%AC_ADK_Multi--Agent_Patterns-00D4FF?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8A_Options_Flow_Analysis-FF6B35?style=flat-square&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0_MCP_Best_Practices-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
+</div>
+
 </div>
 
 </div>
@@ -580,7 +635,7 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
   <span style="color:#8B949E;font-size:16px">▸</span>
   <span style="color:#8B949E;font-size:12px">Lead Data Eng</span>
   <span style="color:#30363D;font-size:12px">│</span>
-  <span style="background:linear-gradient(135deg,rgba(124,58,237,0.15),rgba(0,212,255,0.06));border:1px solid rgba(0,212,255,0.3);border-radius:10px;padding:4px 14px;color:#00D4FF;font-weight:bold">2025</span>
+  <span style="background:linear-gradient(135deg,rgba(124,58,237,0.15),rgba(0,212,255,0.06));border:1px solid rgba(0,212,255,0.3);border-radius:10px;padding:4px 14px;color:#00D4FF;font-weight:bold">2026</span>
   <span style="color:#8B949E;font-size:16px">▸</span>
   <span style="background:linear-gradient(90deg,#00D4FF,#7C3AED);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:bold;font-size:12px">FDE / AI Architect</span>
 </div>
@@ -598,8 +653,8 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
   <div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(0,212,255,0.04)">
     <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
-      <span style="background:rgba(0,212,255,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#00D4FF">2025</span>
-      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;background:linear-gradient(90deg,#00D4FF,#7C3AED);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text">Forward Deployed Data Architect</span>
+      <span style="background:rgba(0,212,255,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#00D4FF">2026</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;background:linear-gradient(90deg,#00D4FF,#7C3AED);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text">Forward Deployed AI Architect</span>
     </div>
     <div style="font-size:12px;color:#8B949E;margin-bottom:8px">John Wiley &amp; Sons <span style="color:#30363D">·</span> <span style="color:#00D4FF">📍 Remote</span></div>
     <div style="font-size:12px;color:#8B949E;margin-bottom:10px;line-height:1.4">Embedded with CXO leadership to ship private LLM applications end-to-end; codified reusable RAG + agent patterns adopted across 3 downstream programs.</div>
@@ -886,7 +941,8 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 </div>
 </div>
 <br/>
-<a href="https://linkedin.com/in/jagadeesh-thiruveedula"><img src="https://img.shields.io/badge/📖_Read_Article-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jagadeesh-thiruveedula"><img src="https://img.shields.io/badge/📖_Read_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div style="font-size:11px;color:#8B949E;margin-top:8px">⚠️ No direct article URL on file — replace <code>linkedin.com/in/jagadeesh-thiruveedula</code> with the Free Press Journal link once available.</div>
 </div>
 
 </div>
@@ -936,6 +992,25 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <a href="https://github.com/jthiruveedula">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jthiruveedula&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FF6B35&area=true&area_color=00D4FF&hide_border=true&border_radius=12&title_color=7C3AED" style="border-radius:8px;width:100%"/>
 </a>
+
+<br/>
+
+<a href="https://github.com/jthiruveedula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" style="border-radius:8px;max-width:380px"/>
+</a>
+
+<br/>
+
+<div style="font-family:'Fira Code',monospace;font-size:14px;color:#7C3AED;margin:12px 0 8px 0">◈ TROPHIES</div>
+<a href="https://github.com/jthiruveedula">
+  <img src="https://github-profile-trophy.vercel.app/?username=jthiruveedula&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=4" style="border-radius:8px;width:100%"/>
+</a>
+
+<!-- WakaTime: uncomment once WakaTime is configured (see audit report, section C)
+<a href="https://wakatime.com/@jthiruveedula">
+  <img src="https://wakatime.com/badge/user/jthiruveedula.svg" style="border-radius:8px"/>
+</a>
+-->
 </div>
 
 </div>
@@ -963,6 +1038,26 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 
 <div style="background:linear-gradient(135deg,rgba(124,58,237,0.04),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.1);border-radius:10px;padding:12px 20px;max-width:600px;margin:0 auto;font-size:13px;color:#8B949E">
 💬 <strong>Open to:</strong> AI/ML consulting · GenAI architecture reviews · Speaking engagements · Open-source collaboration
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ S I G N A T U R E   T E R M I N A L ═══════════════════════ -->
+
+<div align="center">
+
+<div style="background:#0D1117;border:1px solid rgba(0,212,255,0.2);border-radius:10px;padding:18px 22px;max-width:620px;margin:0 auto;font-family:'Fira Code',monospace;text-align:left;box-shadow:0 0 24px rgba(0,212,255,0.1)">
+
+<pre style="margin:0;font-size:13px;line-height:1.6;color:#C9D1D9"><span style="color:#00D4FF">┌──────────────────────────────────────────────────┐</span>
+<span style="color:#00D4FF">│</span>  <span style="color:#7C3AED">&gt;</span> jagadeesh --status                           <span style="color:#00D4FF">│</span>
+<span style="color:#00D4FF">│</span>  <span style="color:#00FF7F">✓</span> Building: MCP Agent Platform on GCP          <span style="color:#00D4FF">│</span>
+<span style="color:#00D4FF">│</span>  <span style="color:#00FF7F">✓</span> Trading: Options AI Signal System            <span style="color:#00D4FF">│</span>
+<span style="color:#00D4FF">│</span>  <span style="color:#00FF7F">✓</span> Location: Dallas, TX · Open to Remote        <span style="color:#00D4FF">│</span>
+<span style="color:#00D4FF">│</span>  <span style="color:#00FF7F">✓</span> Last commit: <img src="https://img.shields.io/github/last-commit/jthiruveedula/jthiruveedula?style=flat-square&labelColor=0D1117&color=00D4FF" alt="last commit" style="vertical-align:middle"/> <span style="color:#00D4FF">│</span>
+<span style="color:#00D4FF">└──────────────────────────────────────────────────┘</span></pre>
+
+</div>
+
 </div>
 
 <br/>
