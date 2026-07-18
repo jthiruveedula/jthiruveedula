@@ -962,27 +962,31 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <div style="background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.04));border:1px solid rgba(124,58,237,0.1);border-radius:12px;padding:20px;max-width:780px;margin:0 auto;box-shadow:0 4px 24px rgba(124,58,237,0.06)">
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" align="center" style="padding:6px">
-<a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&custom_title=%E2%9A%A1+STATS" style="border-radius:8px;width:100%;max-width:380px"/>
-</a>
-</td>
-<td width="50%" align="center" style="padding:6px">
+<td width="50%" align="center" style="padding:4px">
 <a href="https://github.com/jthiruveedula">
   <img src="https://streak-stats.demolab.com/?user=jthiruveedula&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=7C3AED&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" style="border-radius:8px;width:100%;max-width:380px"/>
 </a>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" style="padding:6px">
+<td width="50%" align="center" style="padding:4px">
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" style="border-radius:8px;width:100%;max-width:380px"/>
+  <img src="https://img.shields.io/badge/Followers-View_on_GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
 </a>
 </td>
-<td width="50%" align="center" style="padding:6px">
-<a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show=reviews,discussions_pr&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=7C3AED&custom_title=%F0%9F%92%AC+ACTIVITY" style="border-radius:8px;width:100%;max-width:380px"/>
-</a>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding:4px">
+<img src="https://img.shields.io/github/stars/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=7C3AED&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
+</td>
+<td width="50%" align="center" style="padding:4px">
+<img src="https://img.shields.io/github/repo-count/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=00D4FF&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding:4px">
+<img src="https://img.shields.io/github/commit-activity/m/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Commits%2Fwk&color=FF6B35&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
+</td>
+<td width="50%" align="center" style="padding:4px">
+<img src="https://img.shields.io/github/contributors/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Contributors&color=7C3AED&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
 </td>
 </tr>
 </table>
@@ -996,14 +1000,14 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <br/>
 
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" style="border-radius:8px;max-width:380px"/>
+  <img src="https://img.shields.io/badge/Top_Languages-View_on_GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" style="border-radius:8px;max-width:380px"/>
 </a>
 
 <br/>
 
 <div style="font-family:'Fira Code',monospace;font-size:14px;color:#7C3AED;margin:12px 0 8px 0">◈ TROPHIES</div>
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-profile-trophy.vercel.app/?username=jthiruveedula&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=4" style="border-radius:8px;width:100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jthiruveedula&theme=matrix&no-frame=true&margin-w=8&margin-h=8&column=4" style="border-radius:8px;width:100%" onerror="this.onerror=null;this.src='https://img.shields.io/badge/Trophies-View_on_GitHub-7C3AED?style=for-the-badge&labelColor=0D1117'"/>
 </a>
 
 <!-- WakaTime: uncomment once WakaTime is configured (see audit report, section C)
