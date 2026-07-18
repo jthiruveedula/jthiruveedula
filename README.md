@@ -561,158 +561,257 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 
 <br/>
 
-<div style="background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.04));border:1px solid rgba(124,58,237,0.1);border-radius:10px;padding:16px 20px;max-width:780px;margin:0 auto;box-shadow:0 2px 12px rgba(124,58,237,0.04)">
-<pre style="font-size:12px;color:#8B949E;line-height:1.5;text-align:left;font-family:'Fira Code',monospace;overflow-x:auto">
-<span style="color:#00D4FF">  ETL DEV</span>          <span style="color:#7C3AED">DATA ENGINEER</span>       <span style="color:#FF6B35">SR. DATA ENG</span>        <span style="color:#00D4FF">LEAD DATA ENG</span>       <span style="color:#7C3AED">FDE / AI ARCHITECT</span>
-<span style="color:#8B949E">  ───────</span>          <span style="color:#8B949E">─────────────</span>       <span style="color:#8B949E">────────────</span>        <span style="color:#8B949E">─────────────</span>      <span style="color:#8B949E">──────────────────</span>
-<span style="color:#8B949E">  ┌──────┐         ┌──────────┐        ┌────────────┐      ┌────────────┐      ┌──────────────────┐</span>
-<span style="color:#00D4FF">  │2015  │</span><span style="color:#8B949E">────────▶│</span><span style="color:#7C3AED"> 2018     </span><span style="color:#8B949E">│───────▶│</span><span style="color:#FF6B35"> 2019       </span><span style="color:#8B949E">│─────▶│</span><span style="color:#00D4FF"> 2022       </span><span style="color:#8B949E">│─────▶│</span><span style="color:#7C3AED"> 2024 → NOW       </span><span style="color:#8B949E">│</span>
-<span style="color:#8B949E">  │</span>InnoMinds       <span style="color:#8B949E">│</span>DSO MCS   <span style="color:#8B949E">     │</span>Charles     <span style="color:#8B949E"> │</span>HCA         <span style="color:#8B949E"> │</span>Wiley · Definity  <span style="color:#8B949E"> │</span>
-<span style="color:#8B949E">  │</span>Hyderabad       <span style="color:#8B949E">│</span>Dallas    <span style="color:#8B949E">     │</span>Schwab      <span style="color:#8B949E"> │</span>Healthcare  <span style="color:#8B949E"> │</span>NRG Energy        <span style="color:#8B949E"> │</span>
-<span style="color:#8B949E">  └──────┘         └──────────┘        └────────────┘      └────────────┘      └──────────────────┘</span>
-     ▼                ▼                    ▼                    ▼                     ▼
-  Talend           Cloud-native        Multi-PB            GenAI                Private LLMs
-  PL/SQL           Warehousing         Migration           Accelerators        RAG · Agents
-  Oracle           Mainframe           $1M+ savings        100+ TB HIPAA        50M+ docs
-</pre>
+<!-- Career arc badges -->
+<div style="background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.04));border:1px solid rgba(124,58,237,0.1);border-radius:20px;padding:10px 20px;max-width:780px;margin:0 auto 20px auto;box-shadow:0 2px 12px rgba(124,58,237,0.04)">
+<div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;font-size:13px;font-family:'Fira Code',monospace">
+  <span style="background:linear-gradient(135deg,rgba(0,212,255,0.12),rgba(0,212,255,0.04));border:1px solid rgba(0,212,255,0.2);border-radius:10px;padding:4px 14px;color:#00D4FF;font-weight:bold">2015</span>
+  <span style="color:#8B949E;font-size:16px">▸</span>
+  <span style="color:#8B949E;font-size:12px">ETL Dev</span>
+  <span style="color:#30363D;font-size:12px">│</span>
+  <span style="background:linear-gradient(135deg,rgba(124,58,237,0.12),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.2);border-radius:10px;padding:4px 14px;color:#7C3AED;font-weight:bold">2018</span>
+  <span style="color:#8B949E;font-size:16px">▸</span>
+  <span style="color:#8B949E;font-size:12px">Data Engineer</span>
+  <span style="color:#30363D;font-size:12px">│</span>
+  <span style="background:linear-gradient(135deg,rgba(255,107,53,0.12),rgba(124,58,237,0.04));border:1px solid rgba(255,107,53,0.2);border-radius:10px;padding:4px 14px;color:#FF6B35;font-weight:bold">2019</span>
+  <span style="color:#8B949E;font-size:16px">▸</span>
+  <span style="color:#8B949E;font-size:12px">Sr. Data Eng</span>
+  <span style="color:#30363D;font-size:12px">│</span>
+  <span style="background:linear-gradient(135deg,rgba(0,212,255,0.12),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.2);border-radius:10px;padding:4px 14px;color:#00D4FF;font-weight:bold">2022</span>
+  <span style="color:#8B949E;font-size:16px">▸</span>
+  <span style="color:#8B949E;font-size:12px">Lead Data Eng</span>
+  <span style="color:#30363D;font-size:12px">│</span>
+  <span style="background:linear-gradient(135deg,rgba(124,58,237,0.15),rgba(0,212,255,0.06));border:1px solid rgba(0,212,255,0.3);border-radius:10px;padding:4px 14px;color:#00D4FF;font-weight:bold">2025</span>
+  <span style="color:#8B949E;font-size:16px">▸</span>
+  <span style="background:linear-gradient(90deg,#00D4FF,#7C3AED);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-weight:bold;font-size:12px">FDE / AI Architect</span>
+</div>
 </div>
 
-<br/>
+<!-- Timeline table -->
+<table style="border-collapse:collapse;width:100%;max-width:780px;margin:0 auto">
 
-<div style="max-width:780px;margin:0 auto;text-align:left">
-
-<div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(0,212,255,0.04);border-left:3px solid #00D4FF">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#00D4FF;margin-bottom:4px"><span style="color:#8B949E">2025</span> ▸ Forward Deployed Data Architect · John Wiley &amp; Sons <span style="font-size:11px;color:#8B949E">📍 Remote</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">Embedded with CXO leadership to ship private LLM applications end-to-end; codified reusable RAG + agent patterns adopted across 3 downstream programs.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏗️ RAG over enterprise documents with grounded citations</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">50M+ docs</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🤖 Multi-turn agent with tool-use, PI-redaction, A/B routing</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">60% deflection</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📦 Codified reusable RAG + agent patterns</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">3 programs</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🧪 Eval harness: RAGAS + LLM-as-judge + human review</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">95% accuracy</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">🏆 Mentored 4 engineers on RAG + agent best practices</td><td style="padding:2px 4px;color:#FF6B35;text-align:right;font-family:'Fira Code',monospace">4 engineers</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Vertex AI</span>
-    <span style="background:rgba(28,60,60,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">LangGraph</span>
-    <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">RAGAS</span>
-    <span style="background:rgba(28,60,60,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">LangSmith</span>
-    <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">Langfuse</span>
-    <span style="background:rgba(65,41,145,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#412991">GPT-4o</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Gemini</span>
-    <span style="background:rgba(217,119,87,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#D97757">Claude</span>
+<!-- ROW 1: 2025 Wiley -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(0,212,255,0.2),rgba(124,58,237,0.1));border:2px solid #00D4FF;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#00D4FF;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(0,212,255,0.2)">NOW</div>
+  <div style="width:2px;height:100%;min-height:24px;background:linear-gradient(180deg,rgba(0,212,255,0.3),rgba(124,58,237,0.2));margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(0,212,255,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(0,212,255,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#00D4FF">2025</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;background:linear-gradient(90deg,#00D4FF,#7C3AED);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text">Forward Deployed Data Architect</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">John Wiley &amp; Sons <span style="color:#30363D">·</span> <span style="color:#00D4FF">📍 Remote</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:10px;line-height:1.4">Embedded with CXO leadership to ship private LLM applications end-to-end; codified reusable RAG + agent patterns adopted across 3 downstream programs.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏗️ RAG over enterprise documents with grounded citations</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">50M+ docs</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🤖 Multi-turn agent with tool-use, PI-redaction, A/B routing</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">60% deflection</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📦 Codified reusable RAG + agent patterns</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">3 programs</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🧪 Eval harness: RAGAS + LLM-as-judge + human review</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">95% accuracy</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">🏆 Mentored 4 engineers on RAG + agent best practices</td><td style="padding:2px 4px;color:#FF6B35;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">4 engineers</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Vertex AI</span>
+      <span style="background:rgba(28,60,60,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">LangGraph</span>
+      <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">RAGAS</span>
+      <span style="background:rgba(28,60,60,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">LangSmith</span>
+      <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">Langfuse</span>
+      <span style="background:rgba(65,41,145,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#412991">GPT-4o</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Gemini</span>
+      <span style="background:rgba(217,119,87,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#D97757">Claude</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-<div style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(124,58,237,0.04);border-left:3px solid #7C3AED">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#7C3AED;margin-bottom:4px"><span style="color:#8B949E">2024</span> ▸ Forward Deployed Data Architect · Definity <span style="font-size:11px;color:#8B949E">📍 Remote</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">GenAI-powered modernization of legacy mainframe systems; embedded with operations team across 12 COBOL/legacy workstreams.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🔄 GenAI code translation: COBOL → BigQuery + PySpark</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">12 workstreams</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🧪 Eval harness measuring semantic fidelity across translations</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">Production</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">📋 Codified 5 reusable transformation patterns</td><td style="padding:2px 4px;color:#FF6B35;text-align:right;font-family:'Fira Code',monospace">Platform playbook</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
-    <span style="background:rgba(102,157,246,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#669DF6">BigQuery</span>
-    <span style="background:rgba(226,90,28,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#E25A1C">PySpark</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GenAI Code Translation</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">VPC · IAM</span>
+<!-- ROW 2: 2024 Definity -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(124,58,237,0.2),rgba(0,212,255,0.1));border:2px solid #7C3AED;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#7C3AED;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(124,58,237,0.2)">2024</div>
+  <div style="width:2px;height:100%;min-height:24px;background:linear-gradient(180deg,rgba(124,58,237,0.3),rgba(0,212,255,0.1));margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(124,58,237,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(124,58,237,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#7C3AED">2024</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;color:#7C3AED">Forward Deployed Data Architect</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:6px">Definity <span style="color:#30363D">·</span> <span style="color:#7C3AED">📍 Remote</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">GenAI-powered modernization of legacy mainframe systems; embedded with operations team across 12 COBOL/legacy workstreams.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🔄 GenAI code translation: COBOL → BigQuery + PySpark</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">12 workstreams</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🧪 Eval harness measuring semantic fidelity across translations</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Production</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">📋 Codified 5 reusable transformation patterns</td><td style="padding:2px 4px;color:#FF6B35;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Platform playbook</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
+      <span style="background:rgba(102,157,246,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#669DF6">BigQuery</span>
+      <span style="background:rgba(226,90,28,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#E25A1C">PySpark</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GenAI Code Translation</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">VPC · IAM</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-<div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(0,212,255,0.04);border-left:3px solid #FF6B35">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#FF6B35;margin-bottom:4px"><span style="color:#8B949E">2024</span> ▸ Forward Deployed Data Architect · NRG Energy <span style="font-size:11px;color:#8B949E">📍 Remote</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">Cross-cloud migration with AI-powered predictive analytics; scoped and directed the full AWS → GCP transition.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">☁️ Directed AWS → GCP Databricks migration with phased cutover</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">Cross-cloud</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📊 Built cross-cloud ingestion pipelines with Vertex AI</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">Predictive maint.</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">⚡ Seamless transition — near-zero downtime</td><td style="padding:2px 4px;color:#FF6B35;text-align:right;font-family:'Fira Code',monospace">Uptime SLAs</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(255,153,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#FF9900">AWS</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
-    <span style="background:rgba(255,54,33,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#FF3621">Databricks</span>
-    <span style="background:rgba(102,157,246,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#669DF6">BigQuery</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Vertex AI</span>
+<!-- ROW 3: 2024 NRG -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(255,107,53,0.2),rgba(124,58,237,0.1));border:2px solid #FF6B35;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#FF6B35;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(255,107,53,0.2)">2024</div>
+  <div style="width:2px;height:100%;min-height:24px;background:linear-gradient(180deg,rgba(255,107,53,0.3),rgba(0,212,255,0.1));margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(124,58,237,0.04));border:1px solid rgba(255,107,53,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(255,107,53,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(255,107,53,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#FF6B35">2024</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;color:#FF6B35">Forward Deployed Data Architect</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:6px">NRG Energy <span style="color:#30363D">·</span> <span style="color:#FF6B35">📍 Remote</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">Cross-cloud migration with AI-powered predictive analytics; scoped and directed the full AWS → GCP transition.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">☁️ Directed AWS → GCP Databricks migration with phased cutover</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Cross-cloud</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📊 Built cross-cloud ingestion pipelines with Vertex AI</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Predictive maint.</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">⚡ Seamless transition — near-zero downtime</td><td style="padding:2px 4px;color:#FF6B35;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Uptime SLAs</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(255,153,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#FF9900">AWS</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
+      <span style="background:rgba(255,54,33,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#FF3621">Databricks</span>
+      <span style="background:rgba(102,157,246,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#669DF6">BigQuery</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Vertex AI</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-<div style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(124,58,237,0.04);border-left:3px solid #00D4FF">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#00D4FF;margin-bottom:4px"><span style="color:#8B949E">2022–2024</span> ▸ Lead Data Engineer · HCA Healthcare <span style="font-size:11px;color:#8B949E">📍 Nashville, TN</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">Built GenAI accelerators and led HIPAA-compliant cloud migration at enterprise scale; mentored 5 junior engineers to senior roles.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🚀 Custom GenAI accelerators — automated legacy ETL → PySpark</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">10+ programs</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📈 50% cut in delivery timelines · adopted org-wide</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">50% faster</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏥 Migrated 100+ TB to GCP under HIPAA compliance</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#FF6B35;text-align:right;font-family:'Fira Code',monospace">100+ TB</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🎯 Real-time Kafka + Pub/Sub streaming</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">50+ sources</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">👥 Mentored 5 junior engineers to senior roles</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">5 promoted</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
-    <span style="background:rgba(226,90,28,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#E25A1C">PySpark</span>
-    <span style="background:rgba(35,31,32,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Kafka</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Pub/Sub</span>
-    <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">HIPAA</span>
-    <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Talend</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GenAI</span>
+<!-- ROW 4: 2022-2024 HCA -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(0,212,255,0.2),rgba(124,58,237,0.1));border:2px solid #00D4FF;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#00D4FF;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(0,212,255,0.2)">2022</div>
+  <div style="width:2px;height:100%;min-height:24px;background:linear-gradient(180deg,rgba(0,212,255,0.3),rgba(124,58,237,0.1));margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(0,212,255,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(0,212,255,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#00D4FF">2022→2024</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;color:#00D4FF">Lead Data Engineer</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:6px">HCA Healthcare <span style="color:#30363D">·</span> <span style="color:#00D4FF">📍 Nashville, TN</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">Built GenAI accelerators and led HIPAA-compliant cloud migration at enterprise scale; mentored 5 junior engineers to senior roles.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🚀 Custom GenAI accelerators — automated legacy ETL → PySpark</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">10+ programs</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📈 50% cut in delivery timelines · adopted org-wide</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">50% faster</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏥 Migrated 100+ TB to GCP under HIPAA compliance</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#FF6B35;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">100+ TB</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🎯 Real-time Kafka + Pub/Sub streaming</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">50+ sources</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">👥 Mentored 5 junior engineers to senior roles</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">5 promoted</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
+      <span style="background:rgba(226,90,28,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#E25A1C">PySpark</span>
+      <span style="background:rgba(35,31,32,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Kafka</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Pub/Sub</span>
+      <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">HIPAA</span>
+      <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Talend</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GenAI</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-<div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(0,212,255,0.04);border-left:3px solid #7C3AED">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#7C3AED;margin-bottom:4px"><span style="color:#8B949E">2019–2022</span> ▸ Senior Data Engineer · Charles Schwab <span style="font-size:11px;color:#8B949E">📍 Austin, TX</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">Led multi-petabyte migration and built high-throughput transactional frameworks processing billions of daily records.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">💰 Multi-PB Hadoop/Teradata → GCP</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">$1M+ savings</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">⚡ 1B+ daily records with zero data loss</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">25% faster</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📦 High-throughput transactional framework</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#FF6B35;text-align:right;font-family:'Fira Code',monospace">30M records/day</td></tr>
-  <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏗️ IaC with Terraform + Bitbucket + Bamboo</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">50% faster releases</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">📰 Featured in Free Press Journal</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">10+ programs</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
-    <span style="background:rgba(102,157,246,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#669DF6">BigQuery</span>
-    <span style="background:rgba(226,90,28,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#E25A1C">PySpark</span>
-    <span style="background:rgba(123,66,188,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#7B42BC">Terraform</span>
-    <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Dataproc</span>
-    <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Data Fusion</span>
-    <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">Qlik</span>
+<!-- ROW 5: 2019-2022 Schwab -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(124,58,237,0.2),rgba(0,212,255,0.1));border:2px solid #7C3AED;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#7C3AED;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(124,58,237,0.2)">2019</div>
+  <div style="width:2px;height:100%;min-height:24px;background:linear-gradient(180deg,rgba(124,58,237,0.3),rgba(0,212,255,0.1));margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(124,58,237,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(124,58,237,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#7C3AED">2019→2022</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;color:#7C3AED">Senior Data Engineer</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:6px">Charles Schwab <span style="color:#30363D">·</span> <span style="color:#7C3AED">📍 Austin, TX</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">Led multi-petabyte migration and built high-throughput transactional frameworks processing billions of daily records.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">💰 Multi-PB Hadoop/Teradata → GCP</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">$1M+ savings</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">⚡ 1B+ daily records with zero data loss</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">25% faster</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📦 High-throughput transactional framework</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#FF6B35;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">30M records/day</td></tr>
+    <tr><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏗️ IaC with Terraform + Bitbucket + Bamboo</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">50% faster releases</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">📰 Featured in Free Press Journal</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">10+ programs</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">GCP</span>
+      <span style="background:rgba(102,157,246,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#669DF6">BigQuery</span>
+      <span style="background:rgba(226,90,28,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#E25A1C">PySpark</span>
+      <span style="background:rgba(123,66,188,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#7B42BC">Terraform</span>
+      <span style="background:rgba(66,133,244,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#4285F4">Dataproc</span>
+      <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Data Fusion</span>
+      <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">Qlik</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-<div style="background:linear-gradient(135deg,rgba(124,58,237,0.06),rgba(0,212,255,0.04));border:1px solid rgba(124,58,237,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(124,58,237,0.04);border-left:3px solid #FF6B35">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#FF6B35;margin-bottom:4px"><span style="color:#8B949E">2018–2019</span> ▸ Data Engineer · DSO MCS Group <span style="font-size:11px;color:#8B949E">📍 Plano, TX</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">Built cloud-native mortgage recovery warehousing solutions integrating multiple legacy systems.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏦 Unified analytics: Mainframe + Teradata + NAS</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">Multi-source</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">📋 Reusable Talend frameworks: SCD, snapshot, DQ</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">Adopted org-wide</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Talend</span>
-    <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Hive</span>
-    <span style="background:rgba(237,140,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#ED8B00">Java</span>
-    <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">PL/SQL</span>
-    <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Mainframe</span>
-    <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Teradata</span>
+<!-- ROW 6: 2018-2019 DSO -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(255,107,53,0.2),rgba(124,58,237,0.1));border:2px solid #FF6B35;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#FF6B35;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(255,107,53,0.2)">2018</div>
+  <div style="width:2px;height:100%;min-height:24px;background:linear-gradient(180deg,rgba(255,107,53,0.3),rgba(0,212,255,0.1));margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(124,58,237,0.04));border:1px solid rgba(255,107,53,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(255,107,53,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(255,107,53,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#FF6B35">2018→2019</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;color:#FF6B35">Data Engineer</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:6px">DSO MCS Group <span style="color:#30363D">·</span> <span style="color:#FF6B35">📍 Plano, TX</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">Built cloud-native mortgage recovery warehousing solutions integrating multiple legacy systems.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">🏦 Unified analytics: Mainframe + Teradata + NAS</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Multi-source</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">📋 Reusable Talend frameworks: SCD, snapshot, DQ</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Adopted org-wide</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Talend</span>
+      <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Hive</span>
+      <span style="background:rgba(237,140,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#ED8B00">Java</span>
+      <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">PL/SQL</span>
+      <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Mainframe</span>
+      <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">Teradata</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-<div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:16px;margin:12px 0;box-shadow:0 2px 12px rgba(0,212,255,0.04);border-left:3px solid #00D4FF">
-  <div style="font-family:'Fira Code',monospace;font-size:14px;color:#00D4FF;margin-bottom:4px"><span style="color:#8B949E">2015–2018</span> ▸ ETL Developer · InnoMinds <span style="font-size:11px;color:#8B949E">📍 Hyderabad, India</span></div>
-  <div style="font-size:13px;color:#8B949E;margin-bottom:8px">Started career building enterprise data warehouse pipelines for the CROMA warehouse.</div>
-  <table style="font-size:12px;border-collapse:collapse;width:100%">
-  <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📊 Designed robust ETL pipelines for CROMA warehouse</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace">Enterprise DW</td></tr>
-  <tr><td style="padding:2px 4px;color:#C9D1D9">🔧 Talend + PL/SQL: extraction, error handling, dimensional modeling</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace">Full lifecycle</td></tr>
-  </table>
-  <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
-    <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Talend</span>
-    <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">PL/SQL</span>
-    <span style="background:rgba(237,140,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#ED8B00">Java</span>
-    <span style="background:rgba(237,140,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#ED8B00">Oracle</span>
-    <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">Warehouse Modeling</span>
+<!-- ROW 7: 2015-2018 InnoMinds -->
+<tr>
+<td style="vertical-align:top;width:50px;padding:0;border:none;text-align:center">
+  <div style="background:linear-gradient(135deg,rgba(0,212,255,0.2),rgba(124,58,237,0.1));border:2px solid #00D4FF;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-family:'Fira Code',monospace;font-weight:bold;font-size:10px;color:#00D4FF;margin:6px auto 0 auto;box-shadow:0 0 12px rgba(0,212,255,0.2)">2015</div>
+  <div style="width:2px;min-height:12px;background:linear-gradient(180deg,rgba(0,212,255,0.3),transparent);margin:4px auto"></div>
+</td>
+<td style="vertical-align:top;padding:4px 0 4px 8px;border:none">
+  <div style="background:linear-gradient(135deg,rgba(0,212,255,0.06),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.12);border-radius:10px;padding:14px 16px;box-shadow:0 2px 12px rgba(0,212,255,0.04)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:6px">
+      <span style="background:rgba(0,212,255,0.12);border-radius:6px;padding:2px 10px;font-size:11px;font-family:'Fira Code',monospace;font-weight:bold;color:#00D4FF">2015→2018</span>
+      <span style="font-family:'Fira Code',monospace;font-size:14px;font-weight:bold;color:#00D4FF">ETL Developer</span>
+    </div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:6px">InnoMinds <span style="color:#30363D">·</span> <span style="color:#00D4FF">📍 Hyderabad, India</span></div>
+    <div style="font-size:12px;color:#8B949E;margin-bottom:8px">Started career building enterprise data warehouse pipelines for the CROMA warehouse.</div>
+    <table style="font-size:12px;border-collapse:collapse;width:100%">
+    <tr><td width="60%" style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#C9D1D9">📊 Designed robust ETL pipelines for CROMA warehouse</td><td style="padding:2px 4px;border-bottom:1px solid rgba(255,255,255,0.04);color:#00D4FF;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Enterprise DW</td></tr>
+    <tr><td style="padding:2px 4px;color:#C9D1D9">🔧 Talend + PL/SQL: extraction, error handling, dimensional modeling</td><td style="padding:2px 4px;color:#7C3AED;text-align:right;font-family:'Fira Code',monospace;font-weight:bold;font-size:11px">Full lifecycle</td></tr>
+    </table>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-top:6px">
+      <span style="background:rgba(24,160,251,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#18A0FB">Talend</span>
+      <span style="background:rgba(0,0,0,0.3);border-radius:4px;padding:2px 6px;font-size:10px;color:#8B949E">PL/SQL</span>
+      <span style="background:rgba(237,140,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#ED8B00">Java</span>
+      <span style="background:rgba(237,140,0,0.12);border-radius:4px;padding:2px 6px;font-size:10px;color:#ED8B00">Oracle</span>
+      <span style="background:rgba(0,212,255,0.1);border-radius:4px;padding:2px 6px;font-size:10px;color:#00D4FF">Warehouse Modeling</span>
+    </div>
   </div>
-</div>
+</td>
+</tr>
 
-</div>
+</table>
 
 </div>
 
@@ -805,28 +904,28 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <br/>
 
 <div style="background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.04));border:1px solid rgba(124,58,237,0.1);border-radius:12px;padding:20px;max-width:780px;margin:0 auto;box-shadow:0 4px 24px rgba(124,58,237,0.06)">
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="50%" align="center" style="padding:8px">
+<td width="50%" align="center" style="padding:6px">
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&custom_title=%E2%9A%A1+STATS" style="border-radius:8px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&custom_title=%E2%9A%A1+STATS" style="border-radius:8px;width:100%;max-width:380px"/>
 </a>
 </td>
-<td width="50%" align="center" style="padding:8px">
+<td width="50%" align="center" style="padding:6px">
 <a href="https://github.com/jthiruveedula">
-  <img src="https://streak-stats.demolab.com/?user=jthiruveedula&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=7C3AED&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" style="border-radius:8px"/>
+  <img src="https://streak-stats.demolab.com/?user=jthiruveedula&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=7C3AED&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" style="border-radius:8px;width:100%;max-width:380px"/>
 </a>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding:8px">
+<td width="50%" align="center" style="padding:6px">
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" style="border-radius:8px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&size_weight=0.5&count_weight=0.5" style="border-radius:8px;width:100%;max-width:380px"/>
 </a>
 </td>
-<td width="50%" align="center" style="padding:8px">
+<td width="50%" align="center" style="padding:6px">
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=7C3AED&custom_title=%F0%9F%93%82+REPOS+%26+PRs" style="border-radius:8px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show=reviews,discussions_pr&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=7C3AED&custom_title=%F0%9F%92%AC+ACTIVITY" style="border-radius:8px;width:100%;max-width:380px"/>
 </a>
 </td>
 </tr>
@@ -835,7 +934,7 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <br/>
 
 <a href="https://github.com/jthiruveedula">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jthiruveedula&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FF6B35&area=true&area_color=00D4FF&hide_border=true&border_radius=12&title_color=7C3AED" width="95%" style="border-radius:8px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jthiruveedula&bg_color=0D1117&color=00D4FF&line=7C3AED&point=FF6B35&area=true&area_color=00D4FF&hide_border=true&border_radius=12&title_color=7C3AED" style="border-radius:8px;width:100%"/>
 </a>
 </div>
 
