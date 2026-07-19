@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/github/followers/jthiruveedula?color=00D4FF&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/jthiruveedula?tab=repositories">
-  <img src="https://img.shields.io/github/repo-count/jthiruveedula?color=FF6B35&style=for-the-badge&label=REPOS&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/REPOS-200-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 
 </div>
@@ -978,15 +978,15 @@ Currently focused on <strong>production-grade agentic systems</strong> — build
 <img src="https://img.shields.io/github/stars/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=7C3AED&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
 </td>
 <td width="50%" align="center" style="padding:4px">
-<img src="https://img.shields.io/github/repo-count/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=00D4FF&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
+<img src="https://img.shields.io/badge/Public%20Repos-200-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding:4px">
-<img src="https://img.shields.io/github/commit-activity/m/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Commits%2Fwk&color=FF6B35&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
+<img src="https://img.shields.io/github/followers/jthiruveedula?color=00D4FF&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
 </td>
 <td width="50%" align="center" style="padding:4px">
-<img src="https://img.shields.io/github/contributors/jthiruveedula?style=for-the-badge&logo=github&logoColor=white&label=Contributors&color=7C3AED&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
+<img src="https://img.shields.io/github/last-commit/jthiruveedula/jthiruveedula?style=for-the-badge&label=Last%20Commit&color=FF6B35&labelColor=0D1117" style="border-radius:8px;width:100%;max-width:380px"/>
 </td>
 </tr>
 </table>
