@@ -15,13 +15,13 @@ I embed with enterprise teams to take GenAI from demo to production — private 
 |:--|:--|:--|:--|:--|
 | documents behind production RAG | grounded answer accuracy | events streamed at 99.9% uptime | migrated to cloud | infrastructure cost saved |
 
-### The arc
+### The journey
 
-Started in ETL, spent a decade making data platforms fast, cheap, and reliable at Schwab and HCA, then turned that foundation into applied GenAI. Every AI system I ship stands on pipelines I know how to build.
+Eleven years, one city. It started with warehouses and roads, grew cloud towers, and now has an AI spire that every district feeds into.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
-  <img src="assets/arc-light.svg" width="100%" alt="Career arc: ETL developer in 2015 to forward deployed AI architect in 2026">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/city-dark.svg">
+  <img src="assets/city-light.svg" width="100%" alt="Career as a city: warehouses in 2015, cloud towers by 2019, GenAI crowns in 2022, bridges to customers in 2024, and a central AI spire in 2026">
 </picture>
 
 ### How I work
@@ -65,6 +65,11 @@ Started in ETL, spent a decade making data platforms fast, cheap, and reliable a
 <details>
 <summary><b>Experience in detail</b></summary>
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
+  <img src="assets/arc-light.svg" width="100%" alt="Career arc: ETL developer in 2015 to forward deployed AI architect in 2026">
+</picture>
 
 | | Role | Highlights |
 |:--|:--|:--|

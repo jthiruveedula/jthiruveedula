@@ -1,6 +1,8 @@
 """Regenerate the profile SVGs: python3 assets/build.py"""
 from pathlib import Path
 
+from city import city
+
 OUT = Path(__file__).parent
 FONT = "ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
 THEMES = {
@@ -129,3 +131,4 @@ def flow(t):
 for name, t in THEMES.items():
     for kind, fn in (("header", header), ("arc", arc), ("flow", flow)):
         (OUT / f"{kind}-{name}.svg").write_text(fn(t))
+    (OUT / f"city-{name}.svg").write_text(city(name))
