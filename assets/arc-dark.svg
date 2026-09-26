@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392" role="img" aria-label="Career arc from ETL developer in 2015 to forward deployed AI architect in 2026">
+  <style>
+  /* Base state is fully visible; animations only play in from a hidden start, so a renderer that skips them still shows everything. */
+  .draw { stroke-dasharray: 1600; animation: draw 2.4s ease-out .2s backwards; }
+  .pop { animation: pop .5s ease-out backwards; }
+  @keyframes draw { from { stroke-dashoffset: 1600; } }
+  @keyframes pop { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .draw, .pop { animation: none; } }
+</style>
+  <rect x=".5" y=".5" width="1199" height="391" rx="12" fill="#0d1117" stroke="#21262d"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="44" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="2">ELEVEN YEARS, ONE DIRECTION</text>
+    <path d="M90 260 366 234 458 221 734 177 918 143 1102 107" fill="none" stroke="#21262d" stroke-width="2"/>
+    <path class="draw" d="M90 260 366 234 458 221 734 177 918 143 1102 107" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+    <g class="pop" style="animation-delay:0.30s">
+    
+    <circle cx="90" cy="260" r="6" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+    <text x="82" y="290" text-anchor="start" font-size="12" font-weight="700" fill="#58a6ff" letter-spacing="1">2015</text>
+    <text x="82" y="308" text-anchor="start" font-size="15" font-weight="600" fill="#e6edf3">ETL Developer</text>
+    <text x="82" y="326" text-anchor="start" font-size="12.5" fill="#8b949e">InnoMinds · Enterprise warehouse pipelines</text>
+  </g><g class="pop" style="animation-delay:0.65s">
+    
+    <circle cx="366" cy="234" r="6" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+    <text x="374" y="176" text-anchor="end" font-size="12" font-weight="700" fill="#58a6ff" letter-spacing="1">2018</text>
+    <text x="374" y="194" text-anchor="end" font-size="15" font-weight="600" fill="#e6edf3">Data Engineer</text>
+    <text x="374" y="212" text-anchor="end" font-size="12.5" fill="#8b949e">DSO MCS Group · Unified mainframe + Teradata</text>
+  </g><g class="pop" style="animation-delay:1.00s">
+    
+    <circle cx="458" cy="221" r="6" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+    <text x="450" y="251" text-anchor="start" font-size="12" font-weight="700" fill="#58a6ff" letter-spacing="1">2019</text>
+    <text x="450" y="269" text-anchor="start" font-size="15" font-weight="600" fill="#e6edf3">Senior Data Engineer</text>
+    <text x="450" y="287" text-anchor="start" font-size="12.5" fill="#8b949e">Charles Schwab · Multi-PB to GCP · $1M+ saved</text>
+  </g><g class="pop" style="animation-delay:1.35s">
+    
+    <circle cx="734" cy="177" r="6" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+    <text x="742" y="119" text-anchor="end" font-size="12" font-weight="700" fill="#58a6ff" letter-spacing="1">2022</text>
+    <text x="742" y="137" text-anchor="end" font-size="15" font-weight="600" fill="#e6edf3">Lead Data Engineer</text>
+    <text x="742" y="155" text-anchor="end" font-size="12.5" fill="#8b949e">HCA Healthcare · GenAI accelerators · 50% faster</text>
+  </g><g class="pop" style="animation-delay:1.70s">
+    
+    <circle cx="918" cy="143" r="6" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+    <text x="910" y="173" text-anchor="start" font-size="12" font-weight="700" fill="#58a6ff" letter-spacing="1">2024</text>
+    <text x="910" y="191" text-anchor="start" font-size="15" font-weight="600" fill="#e6edf3">FD Data Architect</text>
+    <text x="910" y="209" text-anchor="start" font-size="12.5" fill="#8b949e">NRG · Definity · COBOL to GCP via GenAI</text>
+  </g><g class="pop" style="animation-delay:2.05s">
+    <circle cx="1102" cy="107" r="14" fill="#58a6ff" fill-opacity=".15"/>
+    <circle cx="1102" cy="107" r="6" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+    <text x="1110" y="49" text-anchor="end" font-size="12" font-weight="700" fill="#58a6ff" letter-spacing="1">2026 · NOW</text>
+    <text x="1110" y="67" text-anchor="end" font-size="15" font-weight="600" fill="#e6edf3">FD AI Architect</text>
+    <text x="1110" y="85" text-anchor="end" font-size="12.5" fill="#8b949e">John Wiley &amp; Sons · RAG over 50M+ docs · 95%</text>
+  </g>
+    <rect x="90" y="345" width="362" height="4" rx="2" fill="#21262d"/><text x="90" y="370" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1.5">DATA FOUNDATIONS</text><rect x="458" y="345" width="270" height="4" rx="2" fill="#21262d"/><text x="458" y="370" fill="#8b949e" font-size="13" font-weight="600" letter-spacing="1.5">CLOUD AT SCALE</text><rect x="734" y="345" width="417" height="4" rx="2" fill="#3fb950"/><text x="734" y="370" fill="#e6edf3" font-size="13" font-weight="600" letter-spacing="1.5">APPLIED GENAI</text>
+  </g>
+</svg>
