@@ -15,6 +15,22 @@ I embed with enterprise teams to take GenAI from demo to production — private 
 |:--|:--|:--|:--|:--|
 | documents behind production RAG | grounded answer accuracy | events streamed at 99.9% uptime | migrated to cloud | infrastructure cost saved |
 
+### The arc
+
+Started in ETL, spent a decade making data platforms fast, cheap, and reliable at Schwab and HCA, then turned that foundation into applied GenAI. Every AI system I ship stands on pipelines I know how to build.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
+  <img src="assets/arc-light.svg" width="100%" alt="Career arc: ETL developer in 2015 to forward deployed AI architect in 2026">
+</picture>
+
+### How I work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg">
+  <img src="assets/flow-light.svg" width="100%" alt="Embed, prototype, evaluate, harden">
+</picture>
+
 ### Now
 
 - **Agent infrastructure** — MCP servers, multi-agent orchestration on Google ADK, A2A agents with eval harnesses and human-in-the-loop controls.
@@ -46,7 +62,9 @@ I embed with enterprise teams to take GenAI from demo to production — private 
 
 </details>
 
-### Experience
+<details>
+<summary><b>Experience in detail</b></summary>
+<br>
 
 | | Role | Highlights |
 |:--|:--|:--|
@@ -56,6 +74,8 @@ I embed with enterprise teams to take GenAI from demo to production — private 
 | **2022–24** | Lead Data Engineer · *HCA Healthcare* | GenAI accelerators that cut delivery timelines 50%; 100+ TB HIPAA migration to GCP |
 | **2019–22** | Senior Data Engineer · *Charles Schwab* | Multi-PB Hadoop/Teradata → GCP migration, $1M+ saved; 1B+ daily records with zero data loss |
 | **2015–19** | Data & ETL Engineer · *DSO MCS Group, InnoMinds* | Enterprise warehousing and reusable Talend frameworks |
+
+</details>
 
 ### Toolkit
 
