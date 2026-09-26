@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Jagadeesh Thiruveedula — Forward Deployed AI Engineer">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#eef1f4" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset=".55" stop-color="#ffffff" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="259" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+  <rect width="1200" height="260" rx="12" fill="url(#g)"/>
+  <rect width="1200" height="260" rx="12" fill="url(#fade)"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="84" fill="#0969da" font-size="14" font-weight="600" letter-spacing="3">FORWARD DEPLOYED AI ENGINEER · DALLAS, TX</text>
+    <text x="62" y="148" fill="#1f2328" font-size="54" font-weight="700" letter-spacing="-1.5">Jagadeesh Thiruveedula</text>
+    <text x="64" y="196" fill="#59636e" font-size="20">Private LLM apps · Enterprise RAG · Agentic systems on GCP</text>
+  </g>
+  <rect x="64" y="220" width="48" height="3" rx="1.5" fill="#0969da"/>
+  <g fill="none" stroke="#0969da" stroke-width="1.5" opacity=".9">
+    <circle cx="1010" cy="96" r="5" fill="#0969da"/><circle cx="1090" cy="150" r="5" fill="#0969da"/>
+    <circle cx="960" cy="176" r="5" fill="#0969da"/><circle cx="1130" cy="70" r="4"/><circle cx="1050" cy="206" r="4"/>
+    <path d="M1010 96L1090 150L960 176ZM1010 96L1130 70M1090 150L1050 206" opacity=".55"/>
+  </g>
+</svg>
