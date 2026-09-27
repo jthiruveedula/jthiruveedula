@@ -1,7 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Jagadeesh Thiruveedula — Forward Deployed AI Engineer">
-</picture>
+<img src="assets/hero-animated.svg" width="100%" alt="Jagadeesh Thiruveedula — Forward Deployed AI Engineer">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E6C07A&center=true&vCenter=true&width=900&lines=I+embed+with+enterprise+teams+to+take+GenAI+from+demo+to+production;Private+LLM+apps+%C2%B7+grounded+retrieval+%C2%B7+safe+agents;Nine+years+of+data+engineering+underneath" alt="typing">
+</p>
 
 <p>
   <a href="https://jthiruveedula.github.io"><img src="https://img.shields.io/badge/Portfolio-jthiruveedula.github.io-24292f?style=flat-square" alt="Portfolio"></a>
@@ -15,27 +16,29 @@ I embed with enterprise teams to take GenAI from demo to production — private 
 |:--|:--|:--|:--|:--|
 | documents behind production RAG | grounded answer accuracy | events streamed at 99.9% uptime | migrated to cloud | infrastructure cost saved |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
+
 ### The journey
 
 Eleven years, one city. It started with warehouses and roads, grew cloud towers, and now has an AI spire that every district feeds into.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/city-dark.svg">
-  <img src="assets/city-light.svg" width="100%" alt="Career as a city: warehouses in 2015, cloud towers by 2019, GenAI crowns in 2022, bridges to customers in 2024, and a central AI spire in 2026">
-</picture>
+<img src="assets/journey-3d.svg" width="100%" alt="Career as a city: warehouses in 2015, cloud towers by 2019, GenAI crowns in 2022, bridges to customers in 2024, and a central AI spire in 2026">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
 
 ### How I work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg">
-  <img src="assets/flow-light.svg" width="100%" alt="Embed, prototype, evaluate, harden">
-</picture>
+<img src="assets/flow-animated.svg" width="100%" alt="Embed, prototype, evaluate, harden">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
 
 ### Now
 
 - **Agent infrastructure** — MCP servers, multi-agent orchestration on Google ADK, A2A agents with eval harnesses and human-in-the-loop controls.
 - **Portable agent tooling** — vendor-neutral foundations that work across Claude Code, Copilot, and Cursor.
 - **Side project** — AI-generated options and equity signals.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
 
 ### Selected work
 
@@ -49,6 +52,7 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 | [**llmops-evaluation-framework**](https://github.com/jthiruveedula/llmops-evaluation-framework) | Automated eval, A/B testing, prompt versioning, drift detection | MLflow · LangSmith |
 | [**LLM-SQL-Agent**](https://github.com/jthiruveedula/LLM-SQL-Agent) | Agent for Snowflake → BigQuery dialect migration with lineage validation | SQLGlot · LLMs |
 | [**genai-data-platform**](https://github.com/jthiruveedula/genai-data-platform) | Multi-cloud and open-source learning suite for GenAI data platforms | Astro |
+| [**intraday-ops-intelligence**](https://github.com/jthiruveedula/intraday-ops-intelligence) | Intraday operations intelligence | Python |
 
 <details>
 <summary><b>More projects</b></summary>
@@ -58,7 +62,7 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 
 **Agents for data** — [agentic-data-quality-guardian](https://github.com/jthiruveedula/agentic-data-quality-guardian) · [bigquery-cost-optimizer-agent](https://github.com/jthiruveedula/bigquery-cost-optimizer-agent) · [data-quality-ai-monitor](https://github.com/jthiruveedula/data-quality-ai-monitor) · [GenAI-DataPipeline-Orchestrator](https://github.com/jthiruveedula/GenAI-DataPipeline-Orchestrator) · [genai-powered-etl-codegen](https://github.com/jthiruveedula/genai-powered-etl-codegen)
 
-**Platform & migration** — [databricks-cross-cloud-migration](https://github.com/jthiruveedula/databricks-cross-cloud-migration) · [snowflake-to-bigquery-migration-toolkit](https://github.com/jthiruveedula/snowflake-to-bigquery-migration-toolkit) · [real-time-llm-streaming-platform](https://github.com/jthiruveedula/real-time-llm-streaming-platform) · [gcp-dataproc-optimization-suite](https://github.com/jthiruveedula/gcp-dataproc-optimization-suite) · [llmops-mlflow-vertexai](https://github.com/jthiruveedula/llmops-mlflow-vertexai) · [intraday-ops-intelligence](https://github.com/jthiruveedula/intraday-ops-intelligence)
+**Platform & migration** — [databricks-cross-cloud-migration](https://github.com/jthiruveedula/databricks-cross-cloud-migration) · [snowflake-to-bigquery-migration-toolkit](https://github.com/jthiruveedula/snowflake-to-bigquery-migration-toolkit) · [real-time-llm-streaming-platform](https://github.com/jthiruveedula/real-time-llm-streaming-platform) · [gcp-dataproc-optimization-suite](https://github.com/jthiruveedula/gcp-dataproc-optimization-suite) · [llmops-mlflow-vertexai](https://github.com/jthiruveedula/llmops-mlflow-vertexai)
 
 </details>
 
@@ -66,10 +70,7 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 <summary><b>Experience in detail</b></summary>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/arc-dark.svg">
-  <img src="assets/arc-light.svg" width="100%" alt="Career arc: ETL developer in 2015 to forward deployed AI architect in 2026">
-</picture>
+<img src="assets/arc-animated.svg" width="100%" alt="Career arc: ETL developer in 2015 to forward deployed AI architect in 2026">
 
 | | Role | Highlights |
 |:--|:--|:--|
@@ -82,13 +83,37 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 
 </details>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
+
 ### Toolkit
+
+<img src="assets/orbit-skills.svg" width="100%" alt="Toolkit orbit: AI stack at the center with LLM and agent tools in orbit">
 
 **LLMs & agents** — Claude, Gemini, GPT-4o, Llama · LangGraph, Google ADK, MCP, A2A, DSPy<br>
 **Retrieval** — Vertex AI Vector Search, pgvector, Pinecone, Weaviate · hybrid search, reranking<br>
 **Evaluation** — RAGAS, LangSmith, Langfuse, Arize Phoenix, LLM-as-judge<br>
 **Data & cloud** — GCP (BigQuery, Dataflow, Pub/Sub), AWS, Databricks, Snowflake · Spark, Kafka, Airflow, dbt<br>
 **Delivery** — Python, SQL, Terraform, Docker, Kubernetes, GitHub Actions · VPC-SC, CMEK, HIPAA / SOC 2
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
+
+### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&bg_color=0d1117&title_color=e6c07a&text_color=c9d1d9&icon_color=ffb46b&border_color=1e2c3a" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jthiruveedula&background=0d1117&ring=ffb46b&fire=c2452f&currStreakLabel=e6c07a&sideLabels=c9d1d9&currStreakNum=f5efe2&sideNums=c9d1d9&dates=6b7a86" alt="GitHub streak">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=compact&bg_color=0d1117&title_color=e6c07a&text_color=c9d1d9&border_color=1e2c3a" alt="Top languages">
+</p>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+  <img src="./dist/github-snake.svg" width="100%" alt="Contribution snake">
+</picture>
 
 ---
 
