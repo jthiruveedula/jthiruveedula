@@ -1,7 +1,7 @@
 <img src="assets/hero-animated.svg" width="100%" alt="Jagadeesh Thiruveedula — Forward Deployed AI Engineer">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E6C07A&center=true&vCenter=true&width=900&lines=I+embed+with+enterprise+teams+to+take+GenAI+from+demo+to+production;Private+LLM+apps+%C2%B7+grounded+retrieval+%C2%B7+safe+agents;Nine+years+of+data+engineering+underneath" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E6C07A&center=true&vCenter=true&width=900&lines=I+embed+with+enterprise+teams+to+take+GenAI+from+demo+to+production;Private+LLM+apps+%C2%B7+grounded+retrieval+%C2%B7+safe+agents;Eleven+years+of+data+engineering+underneath" alt="typing">
 </p>
 
 <p>
@@ -10,7 +10,7 @@
   <a href="mailto:jagadeeshthiruveedula77@gmail.com"><img src="https://img.shields.io/badge/Email-get_in_touch-57606a?style=flat-square" alt="Email"></a>
 </p>
 
-I embed with enterprise teams to take GenAI from demo to production — private LLM applications, retrieval systems with grounded citations, and agents that use tools safely under governance. Nine years of data engineering underneath: the pipelines, migrations, and cost controls that make AI systems hold up once real traffic arrives.
+I embed with enterprise teams to take GenAI from demo to production — private LLM applications, retrieval systems with grounded citations, and agents that use tools safely under governance. Eleven years of data engineering underneath: the pipelines, migrations, and cost controls that make AI systems hold up once real traffic arrives.
 
 | **50M+** | **95%** | **1B+/day** | **500+ TiB** | **$2M+** |
 |:--|:--|:--|:--|:--|
