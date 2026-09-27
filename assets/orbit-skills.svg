@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Toolkit orbit: AI stack at the center with LLM and agent tools in orbit">
+<defs>
+  <linearGradient id="obg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d1117"/>
+    <stop offset="1" stop-color="#0a0d14"/>
+  </linearGradient>
+  <radialGradient id="ocool" cx="0.5" cy="0.42" r="0.7">
+    <stop offset="0" stop-color="#16233f" stop-opacity="0.5"/>
+    <stop offset="1" stop-color="#16233f" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="stackGrad" cx="0.42" cy="0.38" r="0.85">
+    <stop offset="0" stop-color="#fff8ea"/>
+    <stop offset="0.35" stop-color="#ffd9a0"/>
+    <stop offset="0.7" stop-color="#ffb46b"/>
+    <stop offset="1" stop-color="#6b4218"/>
+  </radialGradient>
+  <radialGradient id="practicalGlow" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#ffb46b" stop-opacity="0.4"/>
+    <stop offset="1" stop-color="#ffb46b" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="oblur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="14"/></filter>
+  <radialGradient id="orbBloomW" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#ffe9c4" stop-opacity="0.18"/>
+    <stop offset="0.6" stop-color="#ffcf8e" stop-opacity="0.07"/>
+    <stop offset="1" stop-color="#ffcf8e" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="orbBloomM" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#fff3dd" stop-opacity="0.32"/>
+    <stop offset="0.55" stop-color="#ffd9a0" stop-opacity="0.13"/>
+    <stop offset="1" stop-color="#ffd9a0" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="oshaftGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#e8c07a" stop-opacity="0.26"/>
+    <stop offset="0.7" stop-color="#e8c07a" stop-opacity="0.06"/>
+    <stop offset="1" stop-color="#e8c07a" stop-opacity="0"/>
+  </linearGradient>
+  <!-- NOTE: feTurbulence film grain was intentionally omitted.
+     CairoSVG (the only static QA renderer available; headless Chromium hangs
+     in this environment) renders every feTurbulence variant as an opaque
+     black box or transparent — verified 2026-09-27 across 4 configurations.
+     The failure mode is catastrophic (covers the artwork), and the grain
+     cannot be visually verified here. Browsers render feTurbulence correctly,
+     so to re-enable: add the grainF filter to <defs> and
+     <rect width="W" height="H" filter="url(#grainF)"/> before the vignette. -->
+<filter id="vigB" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<g><animateTransform attributeName="transform" type="translate" values="0 0; -10 5; 0 0" dur="26s" repeatCount="indefinite"/>
+<rect x="-20" y="-10" width="1240" height="460" fill="url(#obg)"/>
+<rect x="-20" y="-10" width="1240" height="460" fill="url(#ocool)"/>
+<g opacity="0.5">
+  <animate attributeName="opacity" values="0.35;0.6;0.35" dur="12s" repeatCount="indefinite"/>
+  <polygon points="520,-10 680,-10 640,330 480,330" fill="url(#oshaftGrad)" filter="url(#oblur)"/>
+  <polygon points="420,-10 480,-10 440,330 380,330" fill="url(#oshaftGrad)" filter="url(#oblur)" opacity="0.5"/>
+  <polygon points="720,-10 780,-10 760,330 700,330" fill="url(#oshaftGrad)" filter="url(#oblur)" opacity="0.5"/>
+</g>
+</g>
+<text x="60" y="40" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="17" letter-spacing="6" fill="#e6c07a">TOOLKIT ORBIT</text>
+<text x="1140" y="40" text-anchor="end" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" letter-spacing="2" fill="#6b7a86">LLMs &amp; AGENTS</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 0; 10 -6; 0 0" dur="22s" repeatCount="indefinite"/>
+<ellipse cx="600" cy="195" rx="235" ry="100" fill="none" stroke="#6f8fc9" stroke-width="1.2" opacity="0.30"/>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="360 600 195" to="0 600 195" dur="24s" repeatCount="indefinite"/>
+<g transform="translate(600.0,295.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <rect x="-42.9" y="-16.5" width="85.8" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">Python</text>
+    </g>
+  </g>
+<g transform="translate(396.5,245.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <rect x="-56.9" y="-16.5" width="113.7" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">LangGraph</text>
+    </g>
+  </g>
+<g transform="translate(396.5,145.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <rect x="-61.5" y="-16.5" width="123.0" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">Google ADK</text>
+    </g>
+  </g>
+<g transform="translate(600.0,95.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <rect x="-29.0" y="-16.5" width="57.9" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">MCP</text>
+    </g>
+  </g>
+<g transform="translate(803.5,145.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <rect x="-29.0" y="-16.5" width="57.9" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">A2A</text>
+    </g>
+  </g>
+<g transform="translate(803.5,245.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="24s" repeatCount="indefinite"/>
+      <rect x="-33.6" y="-16.5" width="67.2" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">DSPy</text>
+    </g>
+  </g>
+</g>
+<ellipse cx="600" cy="195" rx="365" ry="155" fill="none" stroke="#6f8fc9" stroke-width="1.2" opacity="0.30"/>
+<g>
+  <animateTransform attributeName="transform" type="rotate" from="0 600 195" to="360 600 195" dur="40s" repeatCount="indefinite"/>
+<g transform="translate(600.0,350.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <rect x="-56.9" y="-16.5" width="113.7" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">Vertex AI</text>
+    </g>
+  </g>
+<g transform="translate(283.9,272.5)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <rect x="-52.2" y="-16.5" width="104.4" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">BigQuery</text>
+    </g>
+  </g>
+<g transform="translate(283.9,117.5)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <rect x="-38.2" y="-16.5" width="76.5" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">RAGAS</text>
+    </g>
+  </g>
+<g transform="translate(600.0,40.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <rect x="-38.2" y="-16.5" width="76.5" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">Kafka</text>
+    </g>
+  </g>
+<g transform="translate(916.1,117.5)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <rect x="-56.9" y="-16.5" width="113.7" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">Terraform</text>
+    </g>
+  </g>
+<g transform="translate(916.1,272.5)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <rect x="-42.9" y="-16.5" width="85.8" height="33.0" rx="16.5" fill="#ffffff" fill-opacity="0.05" stroke="#6f8fc9" stroke-width="1.5" stroke-opacity="0.7"/><text y="5.4" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="600" fill="#f5efe2">Docker</text>
+    </g>
+  </g>
+</g>
+<g>
+  <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" repeatCount="indefinite"/>
+  <circle cx="600" cy="195" r="172" fill="url(#orbBloomW)"/>
+  <circle cx="600" cy="195" r="126" fill="url(#orbBloomM)"/>
+</g>
+<circle cx="600" cy="195" r="115" fill="url(#practicalGlow)" filter="url(#oblur)">
+  <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="600" cy="195" r="58" fill="url(#stackGrad)" stroke="#ffe4c4" stroke-width="1.5" stroke-opacity="0.6">
+  <animate attributeName="r" values="58;63;58" dur="4s" repeatCount="indefinite"/>
+</circle>
+<text x="600" y="196" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="21" font-weight="800" letter-spacing="2" fill="#2a1c08">AI STACK</text>
+<text x="600" y="219" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12" letter-spacing="3" fill="#5a3d16">CORE TOOLKIT</text>
+</g>
+<g>
+  <rect x="12.0" y="366" width="282" height="62" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#6f8fc9" stroke-opacity="0.3"/>
+  <text x="26.0" y="388" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="800" letter-spacing="2" fill="#e6c07a">RETRIEVAL</text>
+  <text x="26.0" y="406" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">Vertex AI Vector Search, pgvector,</text>
+  <text x="26.0" y="421" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">Pinecone, Weaviate · hybrid, rerank</text>
+</g>
+<g>
+  <rect x="310.0" y="366" width="282" height="62" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#6f8fc9" stroke-opacity="0.3"/>
+  <text x="324.0" y="388" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="800" letter-spacing="2" fill="#e6c07a">EVALUATION</text>
+  <text x="324.0" y="406" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">RAGAS, LangSmith, Langfuse,</text>
+  <text x="324.0" y="421" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">Arize Phoenix, LLM-as-judge</text>
+</g>
+<g>
+  <rect x="608.0" y="366" width="282" height="62" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#6f8fc9" stroke-opacity="0.3"/>
+  <text x="622.0" y="388" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="800" letter-spacing="2" fill="#e6c07a">DATA &amp; CLOUD</text>
+  <text x="622.0" y="406" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">GCP · AWS · Databricks · Snowflake</text>
+  <text x="622.0" y="421" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">Spark, Kafka, Airflow, dbt</text>
+</g>
+<g>
+  <rect x="906.0" y="366" width="282" height="62" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#6f8fc9" stroke-opacity="0.3"/>
+  <text x="920.0" y="388" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="800" letter-spacing="2" fill="#e6c07a">DELIVERY</text>
+  <text x="920.0" y="406" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">Python, SQL, Terraform, Docker, K8s</text>
+  <text x="920.0" y="421" font-family="Inter, 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="11.5" fill="#9aa7b5">GitHub Actions · VPC-SC · HIPAA</text>
+</g>
+<g fill="#000000" opacity="0.32" filter="url(#vigB)">
+  <rect x="0" y="-60" width="1200" height="110"/>
+  <rect x="0" y="390" width="1200" height="110"/>
+  <rect x="-60" y="0" width="110" height="440"/>
+  <rect x="1150" y="0" width="110" height="440"/>
+</g>
+</svg>
