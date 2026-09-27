@@ -100,11 +100,11 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jthiruveedula&show_icons=true&bg_color=0d1117&title_color=e6c07a&text_color=c9d1d9&icon_color=ffb46b&border_color=1e2c3a" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jthiruveedula&theme=github_dark" alt="GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jthiruveedula&background=0d1117&ring=ffb46b&fire=c2452f&currStreakLabel=e6c07a&sideLabels=c9d1d9&currStreakNum=f5efe2&sideNums=c9d1d9&dates=6b7a86" alt="GitHub streak">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jthiruveedula&layout=compact&bg_color=0d1117&title_color=e6c07a&text_color=c9d1d9&border_color=1e2c3a" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jthiruveedula&theme=github_dark" alt="Top languages">
 </p>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
