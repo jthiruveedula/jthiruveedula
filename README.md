@@ -109,11 +109,15 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
 
+<a href="https://jthiruveedula.github.io/journey/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
   <img src="./dist/github-snake.svg" width="100%" alt="Contribution snake">
 </picture>
+</a>
+
+<p align="right"><a href="https://jthiruveedula.github.io/journey/"><b>Walk through the city in 3D →</b></a></p>
 
 ---
 
