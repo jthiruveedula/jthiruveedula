@@ -22,7 +22,11 @@ I embed with enterprise teams to take GenAI from demo to production — private 
 
 Eleven years, one city. It started with warehouses and roads, grew cloud towers, and now has an AI spire that every district feeds into.
 
+<a href="https://jthiruveedula.github.io/journey/">
 <img src="assets/journey-3d.svg" width="100%" alt="Career as a city: warehouses in 2015, cloud towers by 2019, GenAI crowns in 2022, bridges to customers in 2024, and a central AI spire in 2026">
+</a>
+
+<p align="right"><a href="https://jthiruveedula.github.io/journey/"><b>Walk through the city in 3D →</b></a></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
 
@@ -109,15 +113,11 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph">
 
-<a href="https://jthiruveedula.github.io/journey/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
   <img src="./dist/github-snake.svg" width="100%" alt="Contribution snake">
 </picture>
-</a>
-
-<p align="right"><a href="https://jthiruveedula.github.io/journey/"><b>Walk through the city in 3D →</b></a></p>
 
 ---
 
