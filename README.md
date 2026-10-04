@@ -26,6 +26,10 @@ Eleven years, one city. It started with warehouses and roads, grew cloud towers,
 <img src="assets/journey-3d.svg" width="100%" alt="Career as a city: warehouses in 2015, cloud towers by 2019, GenAI crowns in 2022, bridges to customers in 2024, and a central AI spire in 2026">
 </a>
 
+<a href="https://jthiruveedula.github.io/journey/">
+<img src="assets/journey-live.gif" width="100%" alt="Scroll-through of the live 3D journey: the city rises from warehouses to cloud towers, GenAI crowns, bridges and a central AI spire as dusk turns to night">
+</a>
+
 <p align="right"><a href="https://jthiruveedula.github.io/journey/"><b>Walk through the city in 3D →</b></a></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%">
